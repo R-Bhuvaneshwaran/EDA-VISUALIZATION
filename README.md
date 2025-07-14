@@ -58,7 +58,7 @@ This project explores historical trade data from the **Multi Commodity Exchange 
 
 **Bhuvaneswaran R.**  
 _Data Engineer → Data Science Enthusiast_  
-[📘 Medium Blog](https://medium.com/@Bhuvaneshwaran_16) | [🐙 GitHub](https://github.com/R-Bhuvaneshwaran)
+[📘 Medium Blog](https://medium.com/@Bhuvaneshwaran_16/from-raw-trades-to-market-trends-a-complete-eda-on-mcx-data-3f30d0dfd550) | [🐙 GitHub](https://github.com/R-Bhuvaneshwaran)
 
 ---
 
