@@ -1,0 +1,1053 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Premium Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>OPTFUT</td><td>01 Jan 2018</td><td style="mso-number-format:0;">38</td><td style="mso-number-format:0\.00;">1124.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jan 2018</td><td style="mso-number-format:0;">137424</td><td style="mso-number-format:0\.00;">349463.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Jan 2018</td><td style="mso-number-format:0;">192</td><td style="mso-number-format:0\.00;">5671.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jan 2018</td><td style="mso-number-format:0;">810910</td><td style="mso-number-format:0\.00;">2195857.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jan 2018</td><td style="mso-number-format:0;">776556</td><td style="mso-number-format:0\.00;">2073582.50</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Jan 2018</td><td style="mso-number-format:0;">206</td><td style="mso-number-format:0\.00;">6083.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jan 2018</td><td style="mso-number-format:0;">123</td><td style="mso-number-format:0\.00;">3606.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jan 2018</td><td style="mso-number-format:0;">816263</td><td style="mso-number-format:0\.00;">2252260.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jan 2018</td><td style="mso-number-format:0;">170</td><td style="mso-number-format:0\.00;">4957.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2018</td><td style="mso-number-format:0;">775982</td><td style="mso-number-format:0\.00;">2103147.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jan 2018</td><td style="mso-number-format:0;">705144</td><td style="mso-number-format:0\.00;">1947943.99</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Jan 2018</td><td style="mso-number-format:0;">126</td><td style="mso-number-format:0\.00;">3725.11</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Jan 2018</td><td style="mso-number-format:0;">182</td><td style="mso-number-format:0\.00;">5339.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jan 2018</td><td style="mso-number-format:0;">796342</td><td style="mso-number-format:0\.00;">2145761.98</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Jan 2018</td><td style="mso-number-format:0;">526</td><td style="mso-number-format:0\.00;">15465.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jan 2018</td><td style="mso-number-format:0;">852211</td><td style="mso-number-format:0\.00;">2445913.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jan 2018</td><td style="mso-number-format:0;">840893</td><td style="mso-number-format:0\.00;">2313748.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jan 2018</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">4784.83</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2018</td><td style="mso-number-format:0;">858455</td><td style="mso-number-format:0\.00;">2457534.88</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jan 2018</td><td style="mso-number-format:0;">716</td><td style="mso-number-format:0\.00;">21192.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Jan 2018</td><td style="mso-number-format:0;">537</td><td style="mso-number-format:0\.00;">16043.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jan 2018</td><td style="mso-number-format:0;">609339</td><td style="mso-number-format:0\.00;">1711286.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jan 2018</td><td style="mso-number-format:0;">885534</td><td style="mso-number-format:0\.00;">2500595.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Jan 2018</td><td style="mso-number-format:0;">400</td><td style="mso-number-format:0\.00;">11914.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Jan 2018</td><td style="mso-number-format:0;">205</td><td style="mso-number-format:0\.00;">6114.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jan 2018</td><td style="mso-number-format:0;">779217</td><td style="mso-number-format:0\.00;">2209353.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jan 2018</td><td style="mso-number-format:0;">808605</td><td style="mso-number-format:0\.00;">2293552.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jan 2018</td><td style="mso-number-format:0;">189</td><td style="mso-number-format:0\.00;">5621.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2018</td><td style="mso-number-format:0;">884888</td><td style="mso-number-format:0\.00;">2438429.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jan 2018</td><td style="mso-number-format:0;">141</td><td style="mso-number-format:0\.00;">4178.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Jan 2018</td><td style="mso-number-format:0;">192</td><td style="mso-number-format:0\.00;">5720.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jan 2018</td><td style="mso-number-format:0;">690473</td><td style="mso-number-format:0\.00;">1964670.20</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jan 2018</td><td style="mso-number-format:0;">913169</td><td style="mso-number-format:0\.00;">2582106.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Jan 2018</td><td style="mso-number-format:0;">302</td><td style="mso-number-format:0\.00;">9015.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jan 2018</td><td style="mso-number-format:0;">1074734</td><td style="mso-number-format:0\.00;">3101611.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Jan 2018</td><td style="mso-number-format:0;">273</td><td style="mso-number-format:0\.00;">8187.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jan 2018</td><td style="mso-number-format:0;">232</td><td style="mso-number-format:0\.00;">6989.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jan 2018</td><td style="mso-number-format:0;">903130</td><td style="mso-number-format:0\.00;">2628377.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jan 2018</td><td style="mso-number-format:0;">770419</td><td style="mso-number-format:0\.00;">2247252.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Jan 2018</td><td style="mso-number-format:0;">494</td><td style="mso-number-format:0\.00;">14717.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Jan 2018</td><td style="mso-number-format:0;">85</td><td style="mso-number-format:0\.00;">2562.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jan 2018</td><td style="mso-number-format:0;">861274</td><td style="mso-number-format:0\.00;">2562554.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jan 2018</td><td style="mso-number-format:0;">892577</td><td style="mso-number-format:0\.00;">2660791.32</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Jan 2018</td><td style="mso-number-format:0;">249</td><td style="mso-number-format:0\.00;">7441.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Feb 2018</td><td style="mso-number-format:0;">925861</td><td style="mso-number-format:0\.00;">2827910.30</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Feb 2018</td><td style="mso-number-format:0;">177</td><td style="mso-number-format:0\.00;">5371.46</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Feb 2018</td><td style="mso-number-format:0;">130</td><td style="mso-number-format:0\.00;">3899.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2018</td><td style="mso-number-format:0;">973049</td><td style="mso-number-format:0\.00;">2758131.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Feb 2018</td><td style="mso-number-format:0;">68</td><td style="mso-number-format:0\.00;">2045.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2018</td><td style="mso-number-format:0;">853969</td><td style="mso-number-format:0\.00;">2289666.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Feb 2018</td><td style="mso-number-format:0;">946652</td><td style="mso-number-format:0\.00;">2634294.48</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Feb 2018</td><td style="mso-number-format:0;">110</td><td style="mso-number-format:0\.00;">3373.38</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Feb 2018</td><td style="mso-number-format:0;">85</td><td style="mso-number-format:0\.00;">2544.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Feb 2018</td><td style="mso-number-format:0;">1127243</td><td style="mso-number-format:0\.00;">2969227.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Feb 2018</td><td style="mso-number-format:0;">123</td><td style="mso-number-format:0\.00;">3689.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Feb 2018</td><td style="mso-number-format:0;">998321</td><td style="mso-number-format:0\.00;">2719162.44</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2018</td><td style="mso-number-format:0;">926422</td><td style="mso-number-format:0\.00;">2590126.03</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Feb 2018</td><td style="mso-number-format:0;">60</td><td style="mso-number-format:0\.00;">1822.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2018</td><td style="mso-number-format:0;">854784</td><td style="mso-number-format:0\.00;">2103441.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Feb 2018</td><td style="mso-number-format:0;">106</td><td style="mso-number-format:0\.00;">3221.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Feb 2018</td><td style="mso-number-format:0;">6</td><td style="mso-number-format:0\.00;">175.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2018</td><td style="mso-number-format:0;">577841</td><td style="mso-number-format:0\.00;">1439458.66</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Feb 2018</td><td style="mso-number-format:0;">128</td><td style="mso-number-format:0\.00;">3858.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Feb 2018</td><td style="mso-number-format:0;">1117144</td><td style="mso-number-format:0\.00;">3068958.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Feb 2018</td><td style="mso-number-format:0;">1076233</td><td style="mso-number-format:0\.00;">2699477.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Feb 2018</td><td style="mso-number-format:0;">131</td><td style="mso-number-format:0\.00;">3962.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2018</td><td style="mso-number-format:0;">1006835</td><td style="mso-number-format:0\.00;">2514852.29</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Feb 2018</td><td style="mso-number-format:0;">180</td><td style="mso-number-format:0\.00;">5457.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Feb 2018</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0\.00;">452.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Feb 2018</td><td style="mso-number-format:0;">608165</td><td style="mso-number-format:0\.00;">1646210.56</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Feb 2018</td><td style="mso-number-format:0;">902680</td><td style="mso-number-format:0\.00;">2456635.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Feb 2018</td><td style="mso-number-format:0;">62</td><td style="mso-number-format:0\.00;">1884.38</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Feb 2018</td><td style="mso-number-format:0;">51</td><td style="mso-number-format:0\.00;">1558.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Feb 2018</td><td style="mso-number-format:0;">908597</td><td style="mso-number-format:0\.00;">2394868.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Feb 2018</td><td style="mso-number-format:0;">995221</td><td style="mso-number-format:0\.00;">2652101.64</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Feb 2018</td><td style="mso-number-format:0;">72</td><td style="mso-number-format:0\.00;">2219.10</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Feb 2018</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">617.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2018</td><td style="mso-number-format:0;">800653</td><td style="mso-number-format:0\.00;">2195803.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Feb 2018</td><td style="mso-number-format:0;">878885</td><td style="mso-number-format:0\.00;">2277538.69</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Feb 2018</td><td style="mso-number-format:0;">18</td><td style="mso-number-format:0\.00;">547.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Feb 2018</td><td style="mso-number-format:0;">908359</td><td style="mso-number-format:0\.00;">2652984.63</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Feb 2018</td><td style="mso-number-format:0;">48</td><td style="mso-number-format:0\.00;">1459.02</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Feb 2018</td><td style="mso-number-format:0;">83</td><td style="mso-number-format:0\.00;">2499.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2018</td><td style="mso-number-format:0;">1009322</td><td style="mso-number-format:0\.00;">2815659.93</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Mar 2018</td><td style="mso-number-format:0;">145</td><td style="mso-number-format:0\.00;">4434.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Mar 2018</td><td style="mso-number-format:0;">1064817</td><td style="mso-number-format:0\.00;">2877361.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Mar 2018</td><td style="mso-number-format:0;">520000</td><td style="mso-number-format:0\.00;">1338078.57</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Mar 2018</td><td style="mso-number-format:0;">7</td><td style="mso-number-format:0\.00;">213.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Mar 2018</td><td style="mso-number-format:0;">879139</td><td style="mso-number-format:0\.00;">2345141.71</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Mar 2018</td><td style="mso-number-format:0;">43</td><td style="mso-number-format:0\.00;">1307.38</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Mar 2018</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">2331.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Mar 2018</td><td style="mso-number-format:0;">914524</td><td style="mso-number-format:0\.00;">2554551.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Mar 2018</td><td style="mso-number-format:0;">1044211</td><td style="mso-number-format:0\.00;">2715571.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Mar 2018</td><td style="mso-number-format:0;">42</td><td style="mso-number-format:0\.00;">1276.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Mar 2018</td><td style="mso-number-format:0;">883925</td><td style="mso-number-format:0\.00;">2389834.76</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Mar 2018</td><td style="mso-number-format:0;">20</td><td style="mso-number-format:0\.00;">604.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Mar 2018</td><td style="mso-number-format:0;">986410</td><td style="mso-number-format:0\.00;">2798389.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Mar 2018</td><td style="mso-number-format:0;">74</td><td style="mso-number-format:0\.00;">2258.14</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Mar 2018</td><td style="mso-number-format:0;">67</td><td style="mso-number-format:0\.00;">2049.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Mar 2018</td><td style="mso-number-format:0;">815882</td><td style="mso-number-format:0\.00;">2144345.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Mar 2018</td><td style="mso-number-format:0;">988851</td><td style="mso-number-format:0\.00;">2585106.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Mar 2018</td><td style="mso-number-format:0;">22</td><td style="mso-number-format:0\.00;">661.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Mar 2018</td><td style="mso-number-format:0;">43</td><td style="mso-number-format:0\.00;">1311.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Mar 2018</td><td style="mso-number-format:0;">1088476</td><td style="mso-number-format:0\.00;">2900573.60</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Mar 2018</td><td style="mso-number-format:0;">36</td><td style="mso-number-format:0\.00;">1088.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Mar 2018</td><td style="mso-number-format:0;">840653</td><td style="mso-number-format:0\.00;">2279078.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Mar 2018</td><td style="mso-number-format:0;">828929</td><td style="mso-number-format:0\.00;">2377938.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Mar 2018</td><td style="mso-number-format:0;">90</td><td style="mso-number-format:0\.00;">2737.77</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Mar 2018</td><td style="mso-number-format:0;">142</td><td style="mso-number-format:0\.00;">4303.53</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Mar 2018</td><td style="mso-number-format:0;">912141</td><td style="mso-number-format:0\.00;">2509065.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Mar 2018</td><td style="mso-number-format:0;">33</td><td style="mso-number-format:0\.00;">997.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Mar 2018</td><td style="mso-number-format:0;">904855</td><td style="mso-number-format:0\.00;">2515840.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Mar 2018</td><td style="mso-number-format:0;">157</td><td style="mso-number-format:0\.00;">4757.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Mar 2018</td><td style="mso-number-format:0;">980918</td><td style="mso-number-format:0\.00;">2790547.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Mar 2018</td><td style="mso-number-format:0;">913064</td><td style="mso-number-format:0\.00;">2539317.18</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Mar 2018</td><td style="mso-number-format:0;">238</td><td style="mso-number-format:0\.00;">7218.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Mar 2018</td><td style="mso-number-format:0;">971526</td><td style="mso-number-format:0\.00;">2712056.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Mar 2018</td><td style="mso-number-format:0;">470</td><td style="mso-number-format:0\.00;">14522.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Mar 2018</td><td style="mso-number-format:0;">844250</td><td style="mso-number-format:0\.00;">2382768.76</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Mar 2018</td><td style="mso-number-format:0;">218</td><td style="mso-number-format:0\.00;">6682.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Mar 2018</td><td style="mso-number-format:0;">867129</td><td style="mso-number-format:0\.00;">2547703.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Mar 2018</td><td style="mso-number-format:0;">340</td><td style="mso-number-format:0\.00;">10464.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Mar 2018</td><td style="mso-number-format:0;">923482</td><td style="mso-number-format:0\.00;">2588973.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Mar 2018</td><td style="mso-number-format:0;">28</td><td style="mso-number-format:0\.00;">864.08</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Mar 2018</td><td style="mso-number-format:0;">10</td><td style="mso-number-format:0\.00;">308.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Mar 2018</td><td style="mso-number-format:0;">488886</td><td style="mso-number-format:0\.00;">1309185.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Apr 2018</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">5028.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Apr 2018</td><td style="mso-number-format:0;">785254</td><td style="mso-number-format:0\.00;">2016519.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Apr 2018</td><td style="mso-number-format:0;">816441</td><td style="mso-number-format:0\.00;">2214035.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Apr 2018</td><td style="mso-number-format:0;">151</td><td style="mso-number-format:0\.00;">4696.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Apr 2018</td><td style="mso-number-format:0;">122</td><td style="mso-number-format:0\.00;">3786.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Apr 2018</td><td style="mso-number-format:0;">1111811</td><td style="mso-number-format:0\.00;">3007887.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Apr 2018</td><td style="mso-number-format:0;">962268</td><td style="mso-number-format:0\.00;">2679516.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Apr 2018</td><td style="mso-number-format:0;">75</td><td style="mso-number-format:0\.00;">2305.78</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Apr 2018</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">1670.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Apr 2018</td><td style="mso-number-format:0;">1014585</td><td style="mso-number-format:0\.00;">2719093.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Apr 2018</td><td style="mso-number-format:0;">76</td><td style="mso-number-format:0\.00;">2349.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Apr 2018</td><td style="mso-number-format:0;">890712</td><td style="mso-number-format:0\.00;">2344092.05</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Apr 2018</td><td style="mso-number-format:0;">35</td><td style="mso-number-format:0\.00;">1079.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Apr 2018</td><td style="mso-number-format:0;">931570</td><td style="mso-number-format:0\.00;">2511422.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Apr 2018</td><td style="mso-number-format:0;">1214306</td><td style="mso-number-format:0\.00;">3257100.08</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Apr 2018</td><td style="mso-number-format:0;">287</td><td style="mso-number-format:0\.00;">8955.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Apr 2018</td><td style="mso-number-format:0;">1068338</td><td style="mso-number-format:0\.00;">3045163.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Apr 2018</td><td style="mso-number-format:0;">265</td><td style="mso-number-format:0\.00;">8289.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Apr 2018</td><td style="mso-number-format:0;">939623</td><td style="mso-number-format:0\.00;">2596057.48</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Apr 2018</td><td style="mso-number-format:0;">39</td><td style="mso-number-format:0\.00;">1209.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Apr 2018</td><td style="mso-number-format:0;">882909</td><td style="mso-number-format:0\.00;">2407793.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Apr 2018</td><td style="mso-number-format:0;">42</td><td style="mso-number-format:0\.00;">1307.63</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Apr 2018</td><td style="mso-number-format:0;">67</td><td style="mso-number-format:0\.00;">2092.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Apr 2018</td><td style="mso-number-format:0;">920626</td><td style="mso-number-format:0\.00;">2630076.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Apr 2018</td><td style="mso-number-format:0;">108</td><td style="mso-number-format:0\.00;">3383.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Apr 2018</td><td style="mso-number-format:0;">1180457</td><td style="mso-number-format:0\.00;">3252342.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Apr 2018</td><td style="mso-number-format:0;">105</td><td style="mso-number-format:0\.00;">3311.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Apr 2018</td><td style="mso-number-format:0;">1352645</td><td style="mso-number-format:0\.00;">3768056.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Apr 2018</td><td style="mso-number-format:0;">63</td><td style="mso-number-format:0\.00;">1986.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Apr 2018</td><td style="mso-number-format:0;">859792</td><td style="mso-number-format:0\.00;">2411840.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Apr 2018</td><td style="mso-number-format:0;">1013940</td><td style="mso-number-format:0\.00;">2864622.11</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Apr 2018</td><td style="mso-number-format:0;">159</td><td style="mso-number-format:0\.00;">5003.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Apr 2018</td><td style="mso-number-format:0;">942736</td><td style="mso-number-format:0\.00;">2540226.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Apr 2018</td><td style="mso-number-format:0;">1171</td><td style="mso-number-format:0\.00;">36966.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Apr 2018</td><td style="mso-number-format:0;">878773</td><td style="mso-number-format:0\.00;">2476258.35</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Apr 2018</td><td style="mso-number-format:0;">1240</td><td style="mso-number-format:0\.00;">39252.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Apr 2018</td><td style="mso-number-format:0;">1483</td><td style="mso-number-format:0\.00;">46925.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Apr 2018</td><td style="mso-number-format:0;">864168</td><td style="mso-number-format:0\.00;">2492244.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Apr 2018</td><td style="mso-number-format:0;">782641</td><td style="mso-number-format:0\.00;">2251843.06</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Apr 2018</td><td style="mso-number-format:0;">1389</td><td style="mso-number-format:0\.00;">43786.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Apr 2018</td><td style="mso-number-format:0;">926921</td><td style="mso-number-format:0\.00;">2700121.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Apr 2018</td><td style="mso-number-format:0;">1294</td><td style="mso-number-format:0\.00;">40655.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 May 2018</td><td style="mso-number-format:0;">506040</td><td style="mso-number-format:0\.00;">1416248.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 May 2018</td><td style="mso-number-format:0;">505</td><td style="mso-number-format:0\.00;">15798.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 May 2018</td><td style="mso-number-format:0;">1135</td><td style="mso-number-format:0\.00;">35432.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 May 2018</td><td style="mso-number-format:0;">815605</td><td style="mso-number-format:0\.00;">2237406.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 May 2018</td><td style="mso-number-format:0;">865662</td><td style="mso-number-format:0\.00;">2473911.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 May 2018</td><td style="mso-number-format:0;">1342</td><td style="mso-number-format:0\.00;">41885.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 May 2018</td><td style="mso-number-format:0;">1285</td><td style="mso-number-format:0\.00;">40138.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 May 2018</td><td style="mso-number-format:0;">827891</td><td style="mso-number-format:0\.00;">2318425.01</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 May 2018</td><td style="mso-number-format:0;">2650</td><td style="mso-number-format:0\.00;">82972.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 May 2018</td><td style="mso-number-format:0;">575211</td><td style="mso-number-format:0\.00;">1596865.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 May 2018</td><td style="mso-number-format:0;">1018430</td><td style="mso-number-format:0\.00;">2808509.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 May 2018</td><td style="mso-number-format:0;">2772</td><td style="mso-number-format:0\.00;">87128.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 May 2018</td><td style="mso-number-format:0;">793299</td><td style="mso-number-format:0\.00;">2298872.79</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 May 2018</td><td style="mso-number-format:0;">2146</td><td style="mso-number-format:0\.00;">67357.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 May 2018</td><td style="mso-number-format:0;">785506</td><td style="mso-number-format:0\.00;">2376066.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 May 2018</td><td style="mso-number-format:0;">1820</td><td style="mso-number-format:0\.00;">57176.33</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 May 2018</td><td style="mso-number-format:0;">1092</td><td style="mso-number-format:0\.00;">34374.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 May 2018</td><td style="mso-number-format:0;">646319</td><td style="mso-number-format:0\.00;">1953740.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 May 2018</td><td style="mso-number-format:0;">668537</td><td style="mso-number-format:0\.00;">1982738.43</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 May 2018</td><td style="mso-number-format:0;">1173</td><td style="mso-number-format:0\.00;">36967.12</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 May 2018</td><td style="mso-number-format:0;">5326</td><td style="mso-number-format:0\.00;">87038.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 May 2018</td><td style="mso-number-format:0;">920975</td><td style="mso-number-format:0\.00;">2792633.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 May 2018</td><td style="mso-number-format:0;">3714</td><td style="mso-number-format:0\.00;">75198.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 May 2018</td><td style="mso-number-format:0;">700066</td><td style="mso-number-format:0\.00;">2122578.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 May 2018</td><td style="mso-number-format:0;">3289</td><td style="mso-number-format:0\.00;">50001.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 May 2018</td><td style="mso-number-format:0;">804054</td><td style="mso-number-format:0\.00;">2363752.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 May 2018</td><td style="mso-number-format:0;">685335</td><td style="mso-number-format:0\.00;">2032500.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 May 2018</td><td style="mso-number-format:0;">3324</td><td style="mso-number-format:0\.00;">60156.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 May 2018</td><td style="mso-number-format:0;">747897</td><td style="mso-number-format:0\.00;">2206061.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 May 2018</td><td style="mso-number-format:0;">3823</td><td style="mso-number-format:0\.00;">55177.58</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 May 2018</td><td style="mso-number-format:0;">3291</td><td style="mso-number-format:0\.00;">48414.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 May 2018</td><td style="mso-number-format:0;">744019</td><td style="mso-number-format:0\.00;">2312473.45</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 May 2018</td><td style="mso-number-format:0;">5115</td><td style="mso-number-format:0\.00;">103675.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 May 2018</td><td style="mso-number-format:0;">792025</td><td style="mso-number-format:0\.00;">2518029.78</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 May 2018</td><td style="mso-number-format:0;">6016</td><td style="mso-number-format:0\.00;">120696.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 May 2018</td><td style="mso-number-format:0;">734538</td><td style="mso-number-format:0\.00;">2301544.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 May 2018</td><td style="mso-number-format:0;">7370</td><td style="mso-number-format:0\.00;">95277.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 May 2018</td><td style="mso-number-format:0;">862223</td><td style="mso-number-format:0\.00;">2513522.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 May 2018</td><td style="mso-number-format:0;">571310</td><td style="mso-number-format:0\.00;">1607315.69</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 May 2018</td><td style="mso-number-format:0;">7749</td><td style="mso-number-format:0\.00;">156092.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 May 2018</td><td style="mso-number-format:0;">904350</td><td style="mso-number-format:0\.00;">2808097.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 May 2018</td><td style="mso-number-format:0;">10723</td><td style="mso-number-format:0\.00;">224096.98</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 May 2018</td><td style="mso-number-format:0;">4857</td><td style="mso-number-format:0\.00;">55985.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 May 2018</td><td style="mso-number-format:0;">858727</td><td style="mso-number-format:0\.00;">2653908.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 May 2018</td><td style="mso-number-format:0;">870651</td><td style="mso-number-format:0\.00;">2593234.10</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 May 2018</td><td style="mso-number-format:0;">6028</td><td style="mso-number-format:0\.00;">55991.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jun 2018</td><td style="mso-number-format:0;">824262</td><td style="mso-number-format:0\.00;">2316020.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Jun 2018</td><td style="mso-number-format:0;">5338</td><td style="mso-number-format:0\.00;">63828.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jun 2018</td><td style="mso-number-format:0;">4533</td><td style="mso-number-format:0\.00;">47311.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jun 2018</td><td style="mso-number-format:0;">772951</td><td style="mso-number-format:0\.00;">2140965.42</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jun 2018</td><td style="mso-number-format:0;">4513</td><td style="mso-number-format:0\.00;">37077.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jun 2018</td><td style="mso-number-format:0;">820884</td><td style="mso-number-format:0\.00;">2318919.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jun 2018</td><td style="mso-number-format:0;">809641</td><td style="mso-number-format:0\.00;">2287551.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Jun 2018</td><td style="mso-number-format:0;">5511</td><td style="mso-number-format:0\.00;">52274.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jun 2018</td><td style="mso-number-format:0;">878698</td><td style="mso-number-format:0\.00;">2559251.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Jun 2018</td><td style="mso-number-format:0;">5741</td><td style="mso-number-format:0\.00;">72752.70</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jun 2018</td><td style="mso-number-format:0;">756697</td><td style="mso-number-format:0\.00;">2249869.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Jun 2018</td><td style="mso-number-format:0;">5900</td><td style="mso-number-format:0\.00;">97003.69</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jun 2018</td><td style="mso-number-format:0;">5669</td><td style="mso-number-format:0\.00;">84696.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jun 2018</td><td style="mso-number-format:0;">729983</td><td style="mso-number-format:0\.00;">2095718.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jun 2018</td><td style="mso-number-format:0;">699156</td><td style="mso-number-format:0\.00;">2046900.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jun 2018</td><td style="mso-number-format:0;">5539</td><td style="mso-number-format:0\.00;">86036.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Jun 2018</td><td style="mso-number-format:0;">4931</td><td style="mso-number-format:0\.00;">54316.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jun 2018</td><td style="mso-number-format:0;">702914</td><td style="mso-number-format:0\.00;">2029641.64</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Jun 2018</td><td style="mso-number-format:0;">6103</td><td style="mso-number-format:0\.00;">100037.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jun 2018</td><td style="mso-number-format:0;">791074</td><td style="mso-number-format:0\.00;">2424191.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jun 2018</td><td style="mso-number-format:0;">959721</td><td style="mso-number-format:0\.00;">3009430.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Jun 2018</td><td style="mso-number-format:0;">11535</td><td style="mso-number-format:0\.00;">160824.68</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jun 2018</td><td style="mso-number-format:0;">5704</td><td style="mso-number-format:0\.00;">72394.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jun 2018</td><td style="mso-number-format:0;">799675</td><td style="mso-number-format:0\.00;">2246038.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jun 2018</td><td style="mso-number-format:0;">858392</td><td style="mso-number-format:0\.00;">2509955.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jun 2018</td><td style="mso-number-format:0;">6279</td><td style="mso-number-format:0\.00;">94352.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jun 2018</td><td style="mso-number-format:0;">849836</td><td style="mso-number-format:0\.00;">2281878.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Jun 2018</td><td style="mso-number-format:0;">4992</td><td style="mso-number-format:0\.00;">59856.54</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Jun 2018</td><td style="mso-number-format:0;">6466</td><td style="mso-number-format:0\.00;">94030.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jun 2018</td><td style="mso-number-format:0;">850231</td><td style="mso-number-format:0\.00;">2442455.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jun 2018</td><td style="mso-number-format:0;">903206</td><td style="mso-number-format:0\.00;">2375507.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Jun 2018</td><td style="mso-number-format:0;">6880</td><td style="mso-number-format:0\.00;">62077.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jun 2018</td><td style="mso-number-format:0;">4774</td><td style="mso-number-format:0\.00;">54549.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jun 2018</td><td style="mso-number-format:0;">757347</td><td style="mso-number-format:0\.00;">2145575.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jun 2018</td><td style="mso-number-format:0;">875380</td><td style="mso-number-format:0\.00;">2430308.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Jun 2018</td><td style="mso-number-format:0;">6615</td><td style="mso-number-format:0\.00;">91854.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jun 2018</td><td style="mso-number-format:0;">925326</td><td style="mso-number-format:0\.00;">2788945.00</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Jun 2018</td><td style="mso-number-format:0;">9370</td><td style="mso-number-format:0\.00;">94792.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jun 2018</td><td style="mso-number-format:0;">882749</td><td style="mso-number-format:0\.00;">2677440.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Jun 2018</td><td style="mso-number-format:0;">4898</td><td style="mso-number-format:0\.00;">62371.21</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jun 2018</td><td style="mso-number-format:0;">776023</td><td style="mso-number-format:0\.00;">2488547.94</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Jun 2018</td><td style="mso-number-format:0;">3758</td><td style="mso-number-format:0\.00;">56334.77</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Jul 2018</td><td style="mso-number-format:0;">4225</td><td style="mso-number-format:0\.00;">56735.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jul 2018</td><td style="mso-number-format:0;">757065</td><td style="mso-number-format:0\.00;">2251653.14</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Jul 2018</td><td style="mso-number-format:0;">6285</td><td style="mso-number-format:0\.00;">83219.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jul 2018</td><td style="mso-number-format:0;">859379</td><td style="mso-number-format:0\.00;">2548184.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jul 2018</td><td style="mso-number-format:0;">721869</td><td style="mso-number-format:0\.00;">2151764.63</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jul 2018</td><td style="mso-number-format:0;">3912</td><td style="mso-number-format:0\.00;">49451.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jul 2018</td><td style="mso-number-format:0;">5285</td><td style="mso-number-format:0\.00;">65166.70</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jul 2018</td><td style="mso-number-format:0;">842849</td><td style="mso-number-format:0\.00;">2481040.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jul 2018</td><td style="mso-number-format:0;">824418</td><td style="mso-number-format:0\.00;">2374023.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Jul 2018</td><td style="mso-number-format:0;">5418</td><td style="mso-number-format:0\.00;">52537.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jul 2018</td><td style="mso-number-format:0;">775201</td><td style="mso-number-format:0\.00;">2360667.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Jul 2018</td><td style="mso-number-format:0;">4758</td><td style="mso-number-format:0\.00;">70547.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jul 2018</td><td style="mso-number-format:0;">798019</td><td style="mso-number-format:0\.00;">2427974.00</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Jul 2018</td><td style="mso-number-format:0;">4277</td><td style="mso-number-format:0\.00;">50294.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jul 2018</td><td style="mso-number-format:0;">6422</td><td style="mso-number-format:0\.00;">56429.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jul 2018</td><td style="mso-number-format:0;">830186</td><td style="mso-number-format:0\.00;">2422801.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jul 2018</td><td style="mso-number-format:0;">9735</td><td style="mso-number-format:0\.00;">82597.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jul 2018</td><td style="mso-number-format:0;">947643</td><td style="mso-number-format:0\.00;">2712291.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jul 2018</td><td style="mso-number-format:0;">758753</td><td style="mso-number-format:0\.00;">2168444.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Jul 2018</td><td style="mso-number-format:0;">6376</td><td style="mso-number-format:0\.00;">63828.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jul 2018</td><td style="mso-number-format:0;">670919</td><td style="mso-number-format:0\.00;">1920117.60</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Jul 2018</td><td style="mso-number-format:0;">7059</td><td style="mso-number-format:0\.00;">55904.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Jul 2018</td><td style="mso-number-format:0;">10304</td><td style="mso-number-format:0\.00;">109445.27</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jul 2018</td><td style="mso-number-format:0;">887485</td><td style="mso-number-format:0\.00;">2526390.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jul 2018</td><td style="mso-number-format:0;">815872</td><td style="mso-number-format:0\.00;">2390300.24</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jul 2018</td><td style="mso-number-format:0;">4121</td><td style="mso-number-format:0\.00;">68275.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jul 2018</td><td style="mso-number-format:0;">1007310</td><td style="mso-number-format:0\.00;">2895178.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jul 2018</td><td style="mso-number-format:0;">4700</td><td style="mso-number-format:0\.00;">79089.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Jul 2018</td><td style="mso-number-format:0;">2727</td><td style="mso-number-format:0\.00;">39597.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jul 2018</td><td style="mso-number-format:0;">786315</td><td style="mso-number-format:0\.00;">2273966.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jul 2018</td><td style="mso-number-format:0;">787071</td><td style="mso-number-format:0\.00;">2230847.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Jul 2018</td><td style="mso-number-format:0;">6262</td><td style="mso-number-format:0\.00;">140649.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jul 2018</td><td style="mso-number-format:0;">845610</td><td style="mso-number-format:0\.00;">2460787.62</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Jul 2018</td><td style="mso-number-format:0;">12056</td><td style="mso-number-format:0\.00;">306598.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jul 2018</td><td style="mso-number-format:0;">8071</td><td style="mso-number-format:0\.00;">196416.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jul 2018</td><td style="mso-number-format:0;">824043</td><td style="mso-number-format:0\.00;">2399154.69</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Jul 2018</td><td style="mso-number-format:0;">7771</td><td style="mso-number-format:0\.00;">190921.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jul 2018</td><td style="mso-number-format:0;">689489</td><td style="mso-number-format:0\.00;">2013683.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jul 2018</td><td style="mso-number-format:0;">692098</td><td style="mso-number-format:0\.00;">2116573.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Jul 2018</td><td style="mso-number-format:0;">5278</td><td style="mso-number-format:0\.00;">110603.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jul 2018</td><td style="mso-number-format:0;">700870</td><td style="mso-number-format:0\.00;">2033530.64</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Jul 2018</td><td style="mso-number-format:0;">2048</td><td style="mso-number-format:0\.00;">14854.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jul 2018</td><td style="mso-number-format:0;">874804</td><td style="mso-number-format:0\.00;">2765106.78</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Jul 2018</td><td style="mso-number-format:0;">2680</td><td style="mso-number-format:0\.00;">24037.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Aug 2018</td><td style="mso-number-format:0;">4985</td><td style="mso-number-format:0\.00;">40769.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Aug 2018</td><td style="mso-number-format:0;">875057</td><td style="mso-number-format:0\.00;">2405396.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Aug 2018</td><td style="mso-number-format:0;">879938</td><td style="mso-number-format:0\.00;">2359613.58</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Aug 2018</td><td style="mso-number-format:0;">4995</td><td style="mso-number-format:0\.00;">47248.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Aug 2018</td><td style="mso-number-format:0;">908458</td><td style="mso-number-format:0\.00;">2512825.79</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Aug 2018</td><td style="mso-number-format:0;">4319</td><td style="mso-number-format:0\.00;">49961.98</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Aug 2018</td><td style="mso-number-format:0;">3915</td><td style="mso-number-format:0\.00;">29947.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Aug 2018</td><td style="mso-number-format:0;">749905</td><td style="mso-number-format:0\.00;">1988501.41</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Aug 2018</td><td style="mso-number-format:0;">3525</td><td style="mso-number-format:0\.00;">30448.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Aug 2018</td><td style="mso-number-format:0;">733262</td><td style="mso-number-format:0\.00;">2042676.01</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Aug 2018</td><td style="mso-number-format:0;">8273</td><td style="mso-number-format:0\.00;">63630.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Aug 2018</td><td style="mso-number-format:0;">926396</td><td style="mso-number-format:0\.00;">2471455.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Aug 2018</td><td style="mso-number-format:0;">842842</td><td style="mso-number-format:0\.00;">2366332.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Aug 2018</td><td style="mso-number-format:0;">5136</td><td style="mso-number-format:0\.00;">44674.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Aug 2018</td><td style="mso-number-format:0;">794505</td><td style="mso-number-format:0\.00;">2276008.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Aug 2018</td><td style="mso-number-format:0;">4967</td><td style="mso-number-format:0\.00;">46165.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Aug 2018</td><td style="mso-number-format:0;">947724</td><td style="mso-number-format:0\.00;">2658884.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Aug 2018</td><td style="mso-number-format:0;">5645</td><td style="mso-number-format:0\.00;">51778.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Aug 2018</td><td style="mso-number-format:0;">861249</td><td style="mso-number-format:0\.00;">2315549.12</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Aug 2018</td><td style="mso-number-format:0;">6085</td><td style="mso-number-format:0\.00;">44714.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Aug 2018</td><td style="mso-number-format:0;">974946</td><td style="mso-number-format:0\.00;">2830215.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Aug 2018</td><td style="mso-number-format:0;">11530</td><td style="mso-number-format:0\.00;">123640.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Aug 2018</td><td style="mso-number-format:0;">2547</td><td style="mso-number-format:0\.00;">38608.90</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Aug 2018</td><td style="mso-number-format:0;">819733</td><td style="mso-number-format:0\.00;">2223452.05</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Aug 2018</td><td style="mso-number-format:0;">2401</td><td style="mso-number-format:0\.00;">27070.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Aug 2018</td><td style="mso-number-format:0;">801342</td><td style="mso-number-format:0\.00;">2177531.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Aug 2018</td><td style="mso-number-format:0;">3786</td><td style="mso-number-format:0\.00;">45258.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Aug 2018</td><td style="mso-number-format:0;">762062</td><td style="mso-number-format:0\.00;">2135031.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Aug 2018</td><td style="mso-number-format:0;">2847</td><td style="mso-number-format:0\.00;">34723.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Aug 2018</td><td style="mso-number-format:0;">540094</td><td style="mso-number-format:0\.00;">1455419.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2018</td><td style="mso-number-format:0;">783131</td><td style="mso-number-format:0\.00;">2243314.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Aug 2018</td><td style="mso-number-format:0;">2861</td><td style="mso-number-format:0\.00;">32368.09</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Aug 2018</td><td style="mso-number-format:0;">3922</td><td style="mso-number-format:0\.00;">58168.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2018</td><td style="mso-number-format:0;">807594</td><td style="mso-number-format:0\.00;">2441650.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2018</td><td style="mso-number-format:0;">539398</td><td style="mso-number-format:0\.00;">1499954.46</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Aug 2018</td><td style="mso-number-format:0;">4338</td><td style="mso-number-format:0\.00;">73938.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2018</td><td style="mso-number-format:0;">841331</td><td style="mso-number-format:0\.00;">2527685.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Aug 2018</td><td style="mso-number-format:0;">2616</td><td style="mso-number-format:0\.00;">28644.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Aug 2018</td><td style="mso-number-format:0;">6791</td><td style="mso-number-format:0\.00;">69202.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Aug 2018</td><td style="mso-number-format:0;">839330</td><td style="mso-number-format:0\.00;">2499071.16</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Aug 2018</td><td style="mso-number-format:0;">3757</td><td style="mso-number-format:0\.00;">62099.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2018</td><td style="mso-number-format:0;">857119</td><td style="mso-number-format:0\.00;">2700418.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2018</td><td style="mso-number-format:0;">962234</td><td style="mso-number-format:0\.00;">2978545.93</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Aug 2018</td><td style="mso-number-format:0;">3337</td><td style="mso-number-format:0\.00;">61072.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Sep 2018</td><td style="mso-number-format:0;">3280</td><td style="mso-number-format:0\.00;">55856.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2018</td><td style="mso-number-format:0;">645124</td><td style="mso-number-format:0\.00;">1958594.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2018</td><td style="mso-number-format:0;">1041343</td><td style="mso-number-format:0\.00;">2940409.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Sep 2018</td><td style="mso-number-format:0;">6149</td><td style="mso-number-format:0\.00;">66798.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Sep 2018</td><td style="mso-number-format:0;">846082</td><td style="mso-number-format:0\.00;">2391339.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Sep 2018</td><td style="mso-number-format:0;">3949</td><td style="mso-number-format:0\.00;">56806.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Sep 2018</td><td style="mso-number-format:0;">9117</td><td style="mso-number-format:0\.00;">179049.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2018</td><td style="mso-number-format:0;">963079</td><td style="mso-number-format:0\.00;">2844722.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Sep 2018</td><td style="mso-number-format:0;">5178</td><td style="mso-number-format:0\.00;">80148.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2018</td><td style="mso-number-format:0;">913677</td><td style="mso-number-format:0\.00;">2700661.84</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Sep 2018</td><td style="mso-number-format:0;">5267</td><td style="mso-number-format:0\.00;">76809.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2018</td><td style="mso-number-format:0;">885536</td><td style="mso-number-format:0\.00;">2625726.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2018</td><td style="mso-number-format:0;">975808</td><td style="mso-number-format:0\.00;">2872703.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Sep 2018</td><td style="mso-number-format:0;">7317</td><td style="mso-number-format:0\.00;">108452.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Sep 2018</td><td style="mso-number-format:0;">1129619</td><td style="mso-number-format:0\.00;">3354319.00</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Sep 2018</td><td style="mso-number-format:0;">10954</td><td style="mso-number-format:0\.00;">191108.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2018</td><td style="mso-number-format:0;">602164</td><td style="mso-number-format:0\.00;">1708775.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Sep 2018</td><td style="mso-number-format:0;">8178</td><td style="mso-number-format:0\.00;">153611.02</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Sep 2018</td><td style="mso-number-format:0;">9529</td><td style="mso-number-format:0\.00;">159675.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2018</td><td style="mso-number-format:0;">957377</td><td style="mso-number-format:0\.00;">2754362.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2018</td><td style="mso-number-format:0;">913739</td><td style="mso-number-format:0\.00;">2720653.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Sep 2018</td><td style="mso-number-format:0;">18211</td><td style="mso-number-format:0\.00;">347290.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Sep 2018</td><td style="mso-number-format:0;">10512</td><td style="mso-number-format:0\.00;">248659.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Sep 2018</td><td style="mso-number-format:0;">1085204</td><td style="mso-number-format:0\.00;">3158522.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Sep 2018</td><td style="mso-number-format:0;">1040631</td><td style="mso-number-format:0\.00;">3111604.33</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Sep 2018</td><td style="mso-number-format:0;">8768</td><td style="mso-number-format:0\.00;">199485.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2018</td><td style="mso-number-format:0;">550223</td><td style="mso-number-format:0\.00;">1589667.03</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Sep 2018</td><td style="mso-number-format:0;">6441</td><td style="mso-number-format:0\.00;">154708.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2018</td><td style="mso-number-format:0;">1247350</td><td style="mso-number-format:0\.00;">3781393.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Sep 2018</td><td style="mso-number-format:0;">20977</td><td style="mso-number-format:0\.00;">533040.02</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Sep 2018</td><td style="mso-number-format:0;">28680</td><td style="mso-number-format:0\.00;">771188.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2018</td><td style="mso-number-format:0;">950189</td><td style="mso-number-format:0\.00;">2855949.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2018</td><td style="mso-number-format:0;">838138</td><td style="mso-number-format:0\.00;">2622215.58</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Sep 2018</td><td style="mso-number-format:0;">23902</td><td style="mso-number-format:0\.00;">682543.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Sep 2018</td><td style="mso-number-format:0;">16428</td><td style="mso-number-format:0\.00;">448068.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Sep 2018</td><td style="mso-number-format:0;">796451</td><td style="mso-number-format:0\.00;">2603264.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2018</td><td style="mso-number-format:0;">904702</td><td style="mso-number-format:0\.00;">2897359.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Sep 2018</td><td style="mso-number-format:0;">4498</td><td style="mso-number-format:0\.00;">78699.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Sep 2018</td><td style="mso-number-format:0;">4799</td><td style="mso-number-format:0\.00;">70415.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2018</td><td style="mso-number-format:0;">1001779</td><td style="mso-number-format:0\.00;">3263742.43</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Oct 2018</td><td style="mso-number-format:0;">6426</td><td style="mso-number-format:0\.00;">84972.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2018</td><td style="mso-number-format:0;">986387</td><td style="mso-number-format:0\.00;">2930234.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Oct 2018</td><td style="mso-number-format:0;">8835</td><td style="mso-number-format:0\.00;">114910.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Oct 2018</td><td style="mso-number-format:0;">1078157</td><td style="mso-number-format:0\.00;">3254920.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2018</td><td style="mso-number-format:0;">991709</td><td style="mso-number-format:0\.00;">2985787.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Oct 2018</td><td style="mso-number-format:0;">8522</td><td style="mso-number-format:0\.00;">129525.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Oct 2018</td><td style="mso-number-format:0;">7341</td><td style="mso-number-format:0\.00;">138476.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2018</td><td style="mso-number-format:0;">1039989</td><td style="mso-number-format:0\.00;">3100453.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2018</td><td style="mso-number-format:0;">848199</td><td style="mso-number-format:0\.00;">2608534.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Oct 2018</td><td style="mso-number-format:0;">6989</td><td style="mso-number-format:0\.00;">133013.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Oct 2018</td><td style="mso-number-format:0;">5635</td><td style="mso-number-format:0\.00;">81481.53</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2018</td><td style="mso-number-format:0;">927343</td><td style="mso-number-format:0\.00;">2827437.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Oct 2018</td><td style="mso-number-format:0;">5740</td><td style="mso-number-format:0\.00;">69017.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Oct 2018</td><td style="mso-number-format:0;">902315</td><td style="mso-number-format:0\.00;">2734665.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Oct 2018</td><td style="mso-number-format:0;">13386</td><td style="mso-number-format:0\.00;">208359.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2018</td><td style="mso-number-format:0;">1162572</td><td style="mso-number-format:0\.00;">3611482.48</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Oct 2018</td><td style="mso-number-format:0;">6171</td><td style="mso-number-format:0\.00;">64409.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2018</td><td style="mso-number-format:0;">942388</td><td style="mso-number-format:0\.00;">2833597.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Oct 2018</td><td style="mso-number-format:0;">6775</td><td style="mso-number-format:0\.00;">82129.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2018</td><td style="mso-number-format:0;">965793</td><td style="mso-number-format:0\.00;">2998374.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2018</td><td style="mso-number-format:0;">886199</td><td style="mso-number-format:0\.00;">2664441.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Oct 2018</td><td style="mso-number-format:0;">5859</td><td style="mso-number-format:0\.00;">55558.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Oct 2018</td><td style="mso-number-format:0;">1005159</td><td style="mso-number-format:0\.00;">2986297.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Oct 2018</td><td style="mso-number-format:0;">10334</td><td style="mso-number-format:0\.00;">75295.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Oct 2018</td><td style="mso-number-format:0;">1557</td><td style="mso-number-format:0\.00;">14782.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2018</td><td style="mso-number-format:0;">560402</td><td style="mso-number-format:0\.00;">1595215.68</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Oct 2018</td><td style="mso-number-format:0;">1713</td><td style="mso-number-format:0\.00;">20881.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2018</td><td style="mso-number-format:0;">808145</td><td style="mso-number-format:0\.00;">2332258.02</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2018</td><td style="mso-number-format:0;">772847</td><td style="mso-number-format:0\.00;">2324973.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Oct 2018</td><td style="mso-number-format:0;">2480</td><td style="mso-number-format:0\.00;">23597.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2018</td><td style="mso-number-format:0;">1025265</td><td style="mso-number-format:0\.00;">3107629.44</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Oct 2018</td><td style="mso-number-format:0;">5054</td><td style="mso-number-format:0\.00;">67362.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Oct 2018</td><td style="mso-number-format:0;">937963</td><td style="mso-number-format:0\.00;">2743073.53</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Oct 2018</td><td style="mso-number-format:0;">4327</td><td style="mso-number-format:0\.00;">34376.72</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Oct 2018</td><td style="mso-number-format:0;">3833</td><td style="mso-number-format:0\.00;">40179.67</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2018</td><td style="mso-number-format:0;">842074</td><td style="mso-number-format:0\.00;">2584631.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2018</td><td style="mso-number-format:0;">936067</td><td style="mso-number-format:0\.00;">2922828.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Oct 2018</td><td style="mso-number-format:0;">3363</td><td style="mso-number-format:0\.00;">35128.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2018</td><td style="mso-number-format:0;">829977</td><td style="mso-number-format:0\.00;">2405226.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Oct 2018</td><td style="mso-number-format:0;">2738</td><td style="mso-number-format:0\.00;">24779.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Oct 2018</td><td style="mso-number-format:0;">3766</td><td style="mso-number-format:0\.00;">36292.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2018</td><td style="mso-number-format:0;">939099</td><td style="mso-number-format:0\.00;">2721001.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Oct 2018</td><td style="mso-number-format:0;">941199</td><td style="mso-number-format:0\.00;">2758555.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Oct 2018</td><td style="mso-number-format:0;">3156</td><td style="mso-number-format:0\.00;">29951.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2018</td><td style="mso-number-format:0;">1070097</td><td style="mso-number-format:0\.00;">2973716.10</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Nov 2018</td><td style="mso-number-format:0;">5042</td><td style="mso-number-format:0\.00;">38328.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Nov 2018</td><td style="mso-number-format:0;">5456</td><td style="mso-number-format:0\.00;">45509.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2018</td><td style="mso-number-format:0;">1075771</td><td style="mso-number-format:0\.00;">3128774.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Nov 2018</td><td style="mso-number-format:0;">3391</td><td style="mso-number-format:0\.00;">27376.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2018</td><td style="mso-number-format:0;">801118</td><td style="mso-number-format:0\.00;">2280407.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Nov 2018</td><td style="mso-number-format:0;">4220</td><td style="mso-number-format:0\.00;">32485.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2018</td><td style="mso-number-format:0;">780481</td><td style="mso-number-format:0\.00;">2195296.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Nov 2018</td><td style="mso-number-format:0;">1122</td><td style="mso-number-format:0\.00;">8883.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Nov 2018</td><td style="mso-number-format:0;">91891</td><td style="mso-number-format:0\.00;">276548.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Nov 2018</td><td style="mso-number-format:0;">3581</td><td style="mso-number-format:0\.00;">28925.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2018</td><td style="mso-number-format:0;">544571</td><td style="mso-number-format:0\.00;">1488045.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Nov 2018</td><td style="mso-number-format:0;">6956</td><td style="mso-number-format:0\.00;">68037.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2018</td><td style="mso-number-format:0;">926378</td><td style="mso-number-format:0\.00;">2453791.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Nov 2018</td><td style="mso-number-format:0;">828377</td><td style="mso-number-format:0\.00;">2247038.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Nov 2018</td><td style="mso-number-format:0;">5160</td><td style="mso-number-format:0\.00;">36604.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Nov 2018</td><td style="mso-number-format:0;">10776</td><td style="mso-number-format:0\.00;">65511.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Nov 2018</td><td style="mso-number-format:0;">1170401</td><td style="mso-number-format:0\.00;">3032709.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Nov 2018</td><td style="mso-number-format:0;">15230</td><td style="mso-number-format:0\.00;">87586.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Nov 2018</td><td style="mso-number-format:0;">1290178</td><td style="mso-number-format:0\.00;">3491380.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Nov 2018</td><td style="mso-number-format:0;">1134423</td><td style="mso-number-format:0\.00;">3181431.43</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Nov 2018</td><td style="mso-number-format:0;">4181</td><td style="mso-number-format:0\.00;">33824.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2018</td><td style="mso-number-format:0;">1103524</td><td style="mso-number-format:0\.00;">2932371.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Nov 2018</td><td style="mso-number-format:0;">4083</td><td style="mso-number-format:0\.00;">39808.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2018</td><td style="mso-number-format:0;">1030048</td><td style="mso-number-format:0\.00;">2858076.09</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Nov 2018</td><td style="mso-number-format:0;">4108</td><td style="mso-number-format:0\.00;">35976.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Nov 2018</td><td style="mso-number-format:0;">10135</td><td style="mso-number-format:0\.00;">61774.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2018</td><td style="mso-number-format:0;">1265836</td><td style="mso-number-format:0\.00;">3270400.34</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Nov 2018</td><td style="mso-number-format:0;">5876</td><td style="mso-number-format:0\.00;">40357.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Nov 2018</td><td style="mso-number-format:0;">1021178</td><td style="mso-number-format:0\.00;">2625648.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Nov 2018</td><td style="mso-number-format:0;">3547</td><td style="mso-number-format:0\.00;">25877.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2018</td><td style="mso-number-format:0;">863240</td><td style="mso-number-format:0\.00;">2240876.74</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Nov 2018</td><td style="mso-number-format:0;">8530</td><td style="mso-number-format:0\.00;">48151.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2018</td><td style="mso-number-format:0;">784690</td><td style="mso-number-format:0\.00;">1836756.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Nov 2018</td><td style="mso-number-format:0;">7525</td><td style="mso-number-format:0\.00;">65157.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2018</td><td style="mso-number-format:0;">988338</td><td style="mso-number-format:0\.00;">2496599.36</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Nov 2018</td><td style="mso-number-format:0;">5556</td><td style="mso-number-format:0\.00;">48142.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2018</td><td style="mso-number-format:0;">1104651</td><td style="mso-number-format:0\.00;">2688879.34</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Nov 2018</td><td style="mso-number-format:0;">9458</td><td style="mso-number-format:0\.00;">82932.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Nov 2018</td><td style="mso-number-format:0;">1160081</td><td style="mso-number-format:0\.00;">2851222.18</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Nov 2018</td><td style="mso-number-format:0;">9028</td><td style="mso-number-format:0\.00;">43042.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2018</td><td style="mso-number-format:0;">1221311</td><td style="mso-number-format:0\.00;">2965289.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2018</td><td style="mso-number-format:0;">1280862</td><td style="mso-number-format:0\.00;">3326142.42</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Nov 2018</td><td style="mso-number-format:0;">8089</td><td style="mso-number-format:0\.00;">59174.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2018</td><td style="mso-number-format:0;">1152269</td><td style="mso-number-format:0\.00;">2842029.60</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Dec 2018</td><td style="mso-number-format:0;">8266</td><td style="mso-number-format:0\.00;">57562.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2018</td><td style="mso-number-format:0;">1157304</td><td style="mso-number-format:0\.00;">2738552.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Dec 2018</td><td style="mso-number-format:0;">6970</td><td style="mso-number-format:0\.00;">53069.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Dec 2018</td><td style="mso-number-format:0;">1070186</td><td style="mso-number-format:0\.00;">2410322.44</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Dec 2018</td><td style="mso-number-format:0;">5748</td><td style="mso-number-format:0\.00;">33910.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Dec 2018</td><td style="mso-number-format:0;">11454</td><td style="mso-number-format:0\.00;">69879.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2018</td><td style="mso-number-format:0;">1607169</td><td style="mso-number-format:0\.00;">3272041.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2018</td><td style="mso-number-format:0;">1411025</td><td style="mso-number-format:0\.00;">3202370.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Dec 2018</td><td style="mso-number-format:0;">13049</td><td style="mso-number-format:0\.00;">73558.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2018</td><td style="mso-number-format:0;">1100686</td><td style="mso-number-format:0\.00;">2713282.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Dec 2018</td><td style="mso-number-format:0;">6923</td><td style="mso-number-format:0\.00;">63896.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2018</td><td style="mso-number-format:0;">1039174</td><td style="mso-number-format:0\.00;">2535865.48</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Dec 2018</td><td style="mso-number-format:0;">6901</td><td style="mso-number-format:0\.00;">47976.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Dec 2018</td><td style="mso-number-format:0;">1019366</td><td style="mso-number-format:0\.00;">2390967.55</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Dec 2018</td><td style="mso-number-format:0;">5973</td><td style="mso-number-format:0\.00;">30618.79</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Dec 2018</td><td style="mso-number-format:0;">8821</td><td style="mso-number-format:0\.00;">64078.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2018</td><td style="mso-number-format:0;">1101581</td><td style="mso-number-format:0\.00;">2496565.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2018</td><td style="mso-number-format:0;">960182</td><td style="mso-number-format:0\.00;">2254299.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Dec 2018</td><td style="mso-number-format:0;">10277</td><td style="mso-number-format:0\.00;">49416.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Dec 2018</td><td style="mso-number-format:0;">2983</td><td style="mso-number-format:0\.00;">21249.79</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2018</td><td style="mso-number-format:0;">1029070</td><td style="mso-number-format:0\.00;">2304028.55</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Dec 2018</td><td style="mso-number-format:0;">7586</td><td style="mso-number-format:0\.00;">45539.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2018</td><td style="mso-number-format:0;">1429021</td><td style="mso-number-format:0\.00;">3128225.74</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Dec 2018</td><td style="mso-number-format:0;">7058</td><td style="mso-number-format:0\.00;">69658.27</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Dec 2018</td><td style="mso-number-format:0;">1149678</td><td style="mso-number-format:0\.00;">2490846.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2018</td><td style="mso-number-format:0;">1233443</td><td style="mso-number-format:0\.00;">2800954.11</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Dec 2018</td><td style="mso-number-format:0;">4917</td><td style="mso-number-format:0\.00;">35320.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2018</td><td style="mso-number-format:0;">1133704</td><td style="mso-number-format:0\.00;">2463721.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Dec 2018</td><td style="mso-number-format:0;">4200</td><td style="mso-number-format:0\.00;">24031.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2018</td><td style="mso-number-format:0;">1005097</td><td style="mso-number-format:0\.00;">2114881.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Dec 2018</td><td style="mso-number-format:0;">6243</td><td style="mso-number-format:0\.00;">38941.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Dec 2018</td><td style="mso-number-format:0;">12990</td><td style="mso-number-format:0\.00;">98418.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Dec 2018</td><td style="mso-number-format:0;">1332371</td><td style="mso-number-format:0\.00;">2639428.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2018</td><td style="mso-number-format:0;">1302063</td><td style="mso-number-format:0\.00;">2679290.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Dec 2018</td><td style="mso-number-format:0;">7074</td><td style="mso-number-format:0\.00;">41826.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2018</td><td style="mso-number-format:0;">1190896</td><td style="mso-number-format:0\.00;">2559755.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Dec 2018</td><td style="mso-number-format:0;">4182</td><td style="mso-number-format:0\.00;">28350.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Dec 2018</td><td style="mso-number-format:0;">4963</td><td style="mso-number-format:0\.00;">34086.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Dec 2018</td><td style="mso-number-format:0;">1164536</td><td style="mso-number-format:0\.00;">2421284.42</td><td>-</td>
+	</tr>
+	</tbody>
+
+</table></body></html>

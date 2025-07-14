@@ -1,0 +1,545 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Premium Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>01 Jan 2015</td><td style="mso-number-format:0;">95599</td><td style="mso-number-format:0\.00;">272176.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jan 2015</td><td style="mso-number-format:0;">721807</td><td style="mso-number-format:0\.00;">2381102.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2015</td><td style="mso-number-format:0;">765187</td><td style="mso-number-format:0\.00;">2402462.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jan 2015</td><td style="mso-number-format:0;">890915</td><td style="mso-number-format:0\.00;">2579294.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jan 2015</td><td style="mso-number-format:0;">923574</td><td style="mso-number-format:0\.00;">2524200.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jan 2015</td><td style="mso-number-format:0;">796891</td><td style="mso-number-format:0\.00;">2216343.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jan 2015</td><td style="mso-number-format:0;">748330</td><td style="mso-number-format:0\.00;">2050101.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2015</td><td style="mso-number-format:0;">710103</td><td style="mso-number-format:0\.00;">1986448.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jan 2015</td><td style="mso-number-format:0;">950545</td><td style="mso-number-format:0\.00;">2561995.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jan 2015</td><td style="mso-number-format:0;">1065414</td><td style="mso-number-format:0\.00;">2928693.02</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jan 2015</td><td style="mso-number-format:0;">1205604</td><td style="mso-number-format:0\.00;">3551672.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jan 2015</td><td style="mso-number-format:0;">973375</td><td style="mso-number-format:0\.00;">2722784.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2015</td><td style="mso-number-format:0;">572417</td><td style="mso-number-format:0\.00;">1567020.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jan 2015</td><td style="mso-number-format:0;">819499</td><td style="mso-number-format:0\.00;">2456618.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jan 2015</td><td style="mso-number-format:0;">916637</td><td style="mso-number-format:0\.00;">2727419.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jan 2015</td><td style="mso-number-format:0;">973555</td><td style="mso-number-format:0\.00;">2780948.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jan 2015</td><td style="mso-number-format:0;">776800</td><td style="mso-number-format:0\.00;">2061833.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jan 2015</td><td style="mso-number-format:0;">786388</td><td style="mso-number-format:0\.00;">2244275.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jan 2015</td><td style="mso-number-format:0;">651897</td><td style="mso-number-format:0\.00;">1822300.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jan 2015</td><td style="mso-number-format:0;">880960</td><td style="mso-number-format:0\.00;">2686060.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jan 2015</td><td style="mso-number-format:0;">833917</td><td style="mso-number-format:0\.00;">2545213.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2015</td><td style="mso-number-format:0;">908016</td><td style="mso-number-format:0\.00;">2273908.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Feb 2015</td><td style="mso-number-format:0;">947207</td><td style="mso-number-format:0\.00;">2625001.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Feb 2015</td><td style="mso-number-format:0;">952501</td><td style="mso-number-format:0\.00;">2482862.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2015</td><td style="mso-number-format:0;">1119458</td><td style="mso-number-format:0\.00;">2868725.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Feb 2015</td><td style="mso-number-format:0;">959243</td><td style="mso-number-format:0\.00;">2601748.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2015</td><td style="mso-number-format:0;">731890</td><td style="mso-number-format:0\.00;">1852393.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Feb 2015</td><td style="mso-number-format:0;">763136</td><td style="mso-number-format:0\.00;">1966158.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Feb 2015</td><td style="mso-number-format:0;">858799</td><td style="mso-number-format:0\.00;">2187565.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2015</td><td style="mso-number-format:0;">919675</td><td style="mso-number-format:0\.00;">2381895.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2015</td><td style="mso-number-format:0;">817112</td><td style="mso-number-format:0\.00;">2125392.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2015</td><td style="mso-number-format:0;">525304</td><td style="mso-number-format:0\.00;">1311694.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Feb 2015</td><td style="mso-number-format:0;">660737</td><td style="mso-number-format:0\.00;">1779004.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Feb 2015</td><td style="mso-number-format:0;">845530</td><td style="mso-number-format:0\.00;">2298973.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Feb 2015</td><td style="mso-number-format:0;">990972</td><td style="mso-number-format:0\.00;">2508068.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Feb 2015</td><td style="mso-number-format:0;">824275</td><td style="mso-number-format:0\.00;">2184103.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2015</td><td style="mso-number-format:0;">849761</td><td style="mso-number-format:0\.00;">2292066.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Feb 2015</td><td style="mso-number-format:0;">883697</td><td style="mso-number-format:0\.00;">2409313.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Feb 2015</td><td style="mso-number-format:0;">798820</td><td style="mso-number-format:0\.00;">2126237.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Feb 2015</td><td style="mso-number-format:0;">868756</td><td style="mso-number-format:0\.00;">2230479.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Feb 2015</td><td style="mso-number-format:0;">788224</td><td style="mso-number-format:0\.00;">2014282.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2015</td><td style="mso-number-format:0;">151132</td><td style="mso-number-format:0\.00;">673167.21</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Mar 2015</td><td style="mso-number-format:0;">720828</td><td style="mso-number-format:0\.00;">1906706.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Mar 2015</td><td style="mso-number-format:0;">758673</td><td style="mso-number-format:0\.00;">1978509.90</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Mar 2015</td><td style="mso-number-format:0;">774931</td><td style="mso-number-format:0\.00;">2020270.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Mar 2015</td><td style="mso-number-format:0;">746789</td><td style="mso-number-format:0\.00;">1902575.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Mar 2015</td><td style="mso-number-format:0;">478275</td><td style="mso-number-format:0\.00;">1389671.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Mar 2015</td><td style="mso-number-format:0;">697623</td><td style="mso-number-format:0\.00;">1780573.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Mar 2015</td><td style="mso-number-format:0;">748561</td><td style="mso-number-format:0\.00;">2155842.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Mar 2015</td><td style="mso-number-format:0;">800698</td><td style="mso-number-format:0\.00;">2182032.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Mar 2015</td><td style="mso-number-format:0;">810794</td><td style="mso-number-format:0\.00;">2248257.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Mar 2015</td><td style="mso-number-format:0;">776178</td><td style="mso-number-format:0\.00;">2063208.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Mar 2015</td><td style="mso-number-format:0;">764538</td><td style="mso-number-format:0\.00;">1851469.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Mar 2015</td><td style="mso-number-format:0;">855238</td><td style="mso-number-format:0\.00;">2245286.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Mar 2015</td><td style="mso-number-format:0;">809654</td><td style="mso-number-format:0\.00;">2058111.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Mar 2015</td><td style="mso-number-format:0;">1013700</td><td style="mso-number-format:0\.00;">2537505.50</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Mar 2015</td><td style="mso-number-format:0;">954911</td><td style="mso-number-format:0\.00;">2523242.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Mar 2015</td><td style="mso-number-format:0;">773095</td><td style="mso-number-format:0\.00;">1937853.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Mar 2015</td><td style="mso-number-format:0;">872484</td><td style="mso-number-format:0\.00;">2214378.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Mar 2015</td><td style="mso-number-format:0;">841815</td><td style="mso-number-format:0\.00;">2172886.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Mar 2015</td><td style="mso-number-format:0;">1004709</td><td style="mso-number-format:0\.00;">2706120.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Mar 2015</td><td style="mso-number-format:0;">775385</td><td style="mso-number-format:0\.00;">2120186.50</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Mar 2015</td><td style="mso-number-format:0;">803412</td><td style="mso-number-format:0\.00;">2126571.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Mar 2015</td><td style="mso-number-format:0;">839901</td><td style="mso-number-format:0\.00;">2348725.44</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2015</td><td style="mso-number-format:0;">880922</td><td style="mso-number-format:0\.00;">2282497.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Apr 2015</td><td style="mso-number-format:0;">551411</td><td style="mso-number-format:0\.00;">1376483.56</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Apr 2015</td><td style="mso-number-format:0;">802434</td><td style="mso-number-format:0\.00;">2051631.67</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Apr 2015</td><td style="mso-number-format:0;">781511</td><td style="mso-number-format:0\.00;">1916291.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Apr 2015</td><td style="mso-number-format:0;">772293</td><td style="mso-number-format:0\.00;">1959621.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Apr 2015</td><td style="mso-number-format:0;">772991</td><td style="mso-number-format:0\.00;">2003579.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Apr 2015</td><td style="mso-number-format:0;">797699</td><td style="mso-number-format:0\.00;">2097357.50</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Apr 2015</td><td style="mso-number-format:0;">778104</td><td style="mso-number-format:0\.00;">1997466.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Apr 2015</td><td style="mso-number-format:0;">509317</td><td style="mso-number-format:0\.00;">1366111.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Apr 2015</td><td style="mso-number-format:0;">796549</td><td style="mso-number-format:0\.00;">2133500.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Apr 2015</td><td style="mso-number-format:0;">912732</td><td style="mso-number-format:0\.00;">2404638.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Apr 2015</td><td style="mso-number-format:0;">774570</td><td style="mso-number-format:0\.00;">2086340.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Apr 2015</td><td style="mso-number-format:0;">864543</td><td style="mso-number-format:0\.00;">2315968.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Apr 2015</td><td style="mso-number-format:0;">741712</td><td style="mso-number-format:0\.00;">2002070.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Apr 2015</td><td style="mso-number-format:0;">777544</td><td style="mso-number-format:0\.00;">2208300.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Apr 2015</td><td style="mso-number-format:0;">813933</td><td style="mso-number-format:0\.00;">2222918.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Apr 2015</td><td style="mso-number-format:0;">820456</td><td style="mso-number-format:0\.00;">2347123.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Apr 2015</td><td style="mso-number-format:0;">811202</td><td style="mso-number-format:0\.00;">2327393.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Apr 2015</td><td style="mso-number-format:0;">726474</td><td style="mso-number-format:0\.00;">2114326.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Apr 2015</td><td style="mso-number-format:0;">765258</td><td style="mso-number-format:0\.00;">2211283.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Apr 2015</td><td style="mso-number-format:0;">1017181</td><td style="mso-number-format:0\.00;">3080918.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 May 2015</td><td style="mso-number-format:0;">402428</td><td style="mso-number-format:0\.00;">1224027.21</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 May 2015</td><td style="mso-number-format:0;">440785</td><td style="mso-number-format:0\.00;">1263897.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 May 2015</td><td style="mso-number-format:0;">763750</td><td style="mso-number-format:0\.00;">2290092.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 May 2015</td><td style="mso-number-format:0;">879338</td><td style="mso-number-format:0\.00;">2600501.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 May 2015</td><td style="mso-number-format:0;">857963</td><td style="mso-number-format:0\.00;">2536167.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 May 2015</td><td style="mso-number-format:0;">862420</td><td style="mso-number-format:0\.00;">2479004.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 May 2015</td><td style="mso-number-format:0;">740559</td><td style="mso-number-format:0\.00;">2209537.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 May 2015</td><td style="mso-number-format:0;">902324</td><td style="mso-number-format:0\.00;">2856380.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 May 2015</td><td style="mso-number-format:0;">977578</td><td style="mso-number-format:0\.00;">3152098.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 May 2015</td><td style="mso-number-format:0;">812819</td><td style="mso-number-format:0\.00;">2478302.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 May 2015</td><td style="mso-number-format:0;">687521</td><td style="mso-number-format:0\.00;">2073045.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 May 2015</td><td style="mso-number-format:0;">703857</td><td style="mso-number-format:0\.00;">2059204.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 May 2015</td><td style="mso-number-format:0;">835790</td><td style="mso-number-format:0\.00;">2601591.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 May 2015</td><td style="mso-number-format:0;">784121</td><td style="mso-number-format:0\.00;">2330128.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 May 2015</td><td style="mso-number-format:0;">692364</td><td style="mso-number-format:0\.00;">2047936.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 May 2015</td><td style="mso-number-format:0;">641594</td><td style="mso-number-format:0\.00;">1889541.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 May 2015</td><td style="mso-number-format:0;">397170</td><td style="mso-number-format:0\.00;">1083917.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 May 2015</td><td style="mso-number-format:0;">769877</td><td style="mso-number-format:0\.00;">2273049.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 May 2015</td><td style="mso-number-format:0;">688876</td><td style="mso-number-format:0\.00;">1962793.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 May 2015</td><td style="mso-number-format:0;">731145</td><td style="mso-number-format:0\.00;">2150304.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 May 2015</td><td style="mso-number-format:0;">761901</td><td style="mso-number-format:0\.00;">2193661.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jun 2015</td><td style="mso-number-format:0;">726097</td><td style="mso-number-format:0\.00;">2142157.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jun 2015</td><td style="mso-number-format:0;">702925</td><td style="mso-number-format:0\.00;">1948017.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jun 2015</td><td style="mso-number-format:0;">732597</td><td style="mso-number-format:0\.00;">2047002.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jun 2015</td><td style="mso-number-format:0;">773390</td><td style="mso-number-format:0\.00;">2217653.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jun 2015</td><td style="mso-number-format:0;">786038</td><td style="mso-number-format:0\.00;">2204010.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jun 2015</td><td style="mso-number-format:0;">619301</td><td style="mso-number-format:0\.00;">1680513.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jun 2015</td><td style="mso-number-format:0;">725370</td><td style="mso-number-format:0\.00;">2018062.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jun 2015</td><td style="mso-number-format:0;">791219</td><td style="mso-number-format:0\.00;">2182197.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jun 2015</td><td style="mso-number-format:0;">727305</td><td style="mso-number-format:0\.00;">2066603.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jun 2015</td><td style="mso-number-format:0;">589118</td><td style="mso-number-format:0\.00;">1641912.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jun 2015</td><td style="mso-number-format:0;">705052</td><td style="mso-number-format:0\.00;">2039828.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jun 2015</td><td style="mso-number-format:0;">662839</td><td style="mso-number-format:0\.00;">1842864.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jun 2015</td><td style="mso-number-format:0;">758002</td><td style="mso-number-format:0\.00;">2015013.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jun 2015</td><td style="mso-number-format:0;">841115</td><td style="mso-number-format:0\.00;">2387049.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jun 2015</td><td style="mso-number-format:0;">690046</td><td style="mso-number-format:0\.00;">1882326.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jun 2015</td><td style="mso-number-format:0;">637723</td><td style="mso-number-format:0\.00;">1827735.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jun 2015</td><td style="mso-number-format:0;">857540</td><td style="mso-number-format:0\.00;">2386151.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jun 2015</td><td style="mso-number-format:0;">774876</td><td style="mso-number-format:0\.00;">2109041.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jun 2015</td><td style="mso-number-format:0;">664690</td><td style="mso-number-format:0\.00;">1777680.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jun 2015</td><td style="mso-number-format:0;">713236</td><td style="mso-number-format:0\.00;">2029719.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jun 2015</td><td style="mso-number-format:0;">882818</td><td style="mso-number-format:0\.00;">2353006.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jun 2015</td><td style="mso-number-format:0;">1027647</td><td style="mso-number-format:0\.00;">2728168.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jul 2015</td><td style="mso-number-format:0;">775027</td><td style="mso-number-format:0\.00;">2067937.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jul 2015</td><td style="mso-number-format:0;">701415</td><td style="mso-number-format:0\.00;">1965639.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jul 2015</td><td style="mso-number-format:0;">502124</td><td style="mso-number-format:0\.00;">1307135.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jul 2015</td><td style="mso-number-format:0;">837090</td><td style="mso-number-format:0\.00;">2105491.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jul 2015</td><td style="mso-number-format:0;">1284051</td><td style="mso-number-format:0\.00;">3256382.02</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jul 2015</td><td style="mso-number-format:0;">1172676</td><td style="mso-number-format:0\.00;">2948491.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jul 2015</td><td style="mso-number-format:0;">947059</td><td style="mso-number-format:0\.00;">2401541.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jul 2015</td><td style="mso-number-format:0;">777648</td><td style="mso-number-format:0\.00;">1908264.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jul 2015</td><td style="mso-number-format:0;">931976</td><td style="mso-number-format:0\.00;">2245464.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jul 2015</td><td style="mso-number-format:0;">871853</td><td style="mso-number-format:0\.00;">2100421.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jul 2015</td><td style="mso-number-format:0;">894346</td><td style="mso-number-format:0\.00;">2254938.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jul 2015</td><td style="mso-number-format:0;">769073</td><td style="mso-number-format:0\.00;">1924019.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jul 2015</td><td style="mso-number-format:0;">702898</td><td style="mso-number-format:0\.00;">1821795.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jul 2015</td><td style="mso-number-format:0;">831691</td><td style="mso-number-format:0\.00;">2281363.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jul 2015</td><td style="mso-number-format:0;">699640</td><td style="mso-number-format:0\.00;">1894288.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jul 2015</td><td style="mso-number-format:0;">784272</td><td style="mso-number-format:0\.00;">2180165.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jul 2015</td><td style="mso-number-format:0;">745306</td><td style="mso-number-format:0\.00;">2039003.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jul 2015</td><td style="mso-number-format:0;">776563</td><td style="mso-number-format:0\.00;">2226041.79</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jul 2015</td><td style="mso-number-format:0;">757870</td><td style="mso-number-format:0\.00;">2182141.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jul 2015</td><td style="mso-number-format:0;">809917</td><td style="mso-number-format:0\.00;">2112943.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jul 2015</td><td style="mso-number-format:0;">854114</td><td style="mso-number-format:0\.00;">2172827.83</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jul 2015</td><td style="mso-number-format:0;">803400</td><td style="mso-number-format:0\.00;">2241388.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jul 2015</td><td style="mso-number-format:0;">939777</td><td style="mso-number-format:0\.00;">2536753.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Aug 2015</td><td style="mso-number-format:0;">823880</td><td style="mso-number-format:0\.00;">1901037.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Aug 2015</td><td style="mso-number-format:0;">695524</td><td style="mso-number-format:0\.00;">1735759.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Aug 2015</td><td style="mso-number-format:0;">844894</td><td style="mso-number-format:0\.00;">1953443.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Aug 2015</td><td style="mso-number-format:0;">753645</td><td style="mso-number-format:0\.00;">1798837.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Aug 2015</td><td style="mso-number-format:0;">879804</td><td style="mso-number-format:0\.00;">2297646.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Aug 2015</td><td style="mso-number-format:0;">922875</td><td style="mso-number-format:0\.00;">2277356.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Aug 2015</td><td style="mso-number-format:0;">1017527</td><td style="mso-number-format:0\.00;">2571785.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Aug 2015</td><td style="mso-number-format:0;">1152324</td><td style="mso-number-format:0\.00;">2857003.83</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Aug 2015</td><td style="mso-number-format:0;">843642</td><td style="mso-number-format:0\.00;">2072657.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Aug 2015</td><td style="mso-number-format:0;">751850</td><td style="mso-number-format:0\.00;">1873618.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Aug 2015</td><td style="mso-number-format:0;">714439</td><td style="mso-number-format:0\.00;">1664322.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Aug 2015</td><td style="mso-number-format:0;">885177</td><td style="mso-number-format:0\.00;">2268793.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Aug 2015</td><td style="mso-number-format:0;">1007837</td><td style="mso-number-format:0\.00;">2479758.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Aug 2015</td><td style="mso-number-format:0;">943761</td><td style="mso-number-format:0\.00;">2491529.20</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Aug 2015</td><td style="mso-number-format:0;">1022682</td><td style="mso-number-format:0\.00;">2825175.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Aug 2015</td><td style="mso-number-format:0;">1332135</td><td style="mso-number-format:0\.00;">3309992.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Aug 2015</td><td style="mso-number-format:0;">1070066</td><td style="mso-number-format:0\.00;">2710171.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2015</td><td style="mso-number-format:0;">1089527</td><td style="mso-number-format:0\.00;">2871548.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2015</td><td style="mso-number-format:0;">1161254</td><td style="mso-number-format:0\.00;">2710461.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2015</td><td style="mso-number-format:0;">1302595</td><td style="mso-number-format:0\.00;">2919248.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Aug 2015</td><td style="mso-number-format:0;">1002418</td><td style="mso-number-format:0\.00;">2233128.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Sep 2015</td><td style="mso-number-format:0;">1177717</td><td style="mso-number-format:0\.00;">2757222.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2015</td><td style="mso-number-format:0;">1219176</td><td style="mso-number-format:0\.00;">2769473.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2015</td><td style="mso-number-format:0;">1130011</td><td style="mso-number-format:0\.00;">2602697.70</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2015</td><td style="mso-number-format:0;">939247</td><td style="mso-number-format:0\.00;">2301084.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Sep 2015</td><td style="mso-number-format:0;">628911</td><td style="mso-number-format:0\.00;">1411458.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Sep 2015</td><td style="mso-number-format:0;">1087295</td><td style="mso-number-format:0\.00;">2412712.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2015</td><td style="mso-number-format:0;">900430</td><td style="mso-number-format:0\.00;">2106411.44</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2015</td><td style="mso-number-format:0;">1060454</td><td style="mso-number-format:0\.00;">2442289.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2015</td><td style="mso-number-format:0;">859458</td><td style="mso-number-format:0\.00;">2008555.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Sep 2015</td><td style="mso-number-format:0;">759087</td><td style="mso-number-format:0\.00;">1756210.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Sep 2015</td><td style="mso-number-format:0;">775759</td><td style="mso-number-format:0\.00;">1878748.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2015</td><td style="mso-number-format:0;">1018933</td><td style="mso-number-format:0\.00;">2518980.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2015</td><td style="mso-number-format:0;">545007</td><td style="mso-number-format:0\.00;">1229854.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Sep 2015</td><td style="mso-number-format:0;">1037356</td><td style="mso-number-format:0\.00;">2528834.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Sep 2015</td><td style="mso-number-format:0;">815347</td><td style="mso-number-format:0\.00;">1921778.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Sep 2015</td><td style="mso-number-format:0;">882858</td><td style="mso-number-format:0\.00;">2290662.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2015</td><td style="mso-number-format:0;">944558</td><td style="mso-number-format:0\.00;">2231688.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2015</td><td style="mso-number-format:0;">965321</td><td style="mso-number-format:0\.00;">2440584.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2015</td><td style="mso-number-format:0;">557392</td><td style="mso-number-format:0\.00;">1355003.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Sep 2015</td><td style="mso-number-format:0;">876632</td><td style="mso-number-format:0\.00;">2222470.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Sep 2015</td><td style="mso-number-format:0;">821994</td><td style="mso-number-format:0\.00;">2167484.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2015</td><td style="mso-number-format:0;">1086759</td><td style="mso-number-format:0\.00;">2897316.27</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2015</td><td style="mso-number-format:0;">1050606</td><td style="mso-number-format:0\.00;">2366549.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Oct 2015</td><td style="mso-number-format:0;">1033172</td><td style="mso-number-format:0\.00;">2503155.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Oct 2015</td><td style="mso-number-format:0;">1003931</td><td style="mso-number-format:0\.00;">2441098.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2015</td><td style="mso-number-format:0;">1088060</td><td style="mso-number-format:0\.00;">2627454.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2015</td><td style="mso-number-format:0;">1000597</td><td style="mso-number-format:0\.00;">2374800.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2015</td><td style="mso-number-format:0;">1255318</td><td style="mso-number-format:0\.00;">3121504.20</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Oct 2015</td><td style="mso-number-format:0;">966731</td><td style="mso-number-format:0\.00;">2388466.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Oct 2015</td><td style="mso-number-format:0;">1004937</td><td style="mso-number-format:0\.00;">2401245.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2015</td><td style="mso-number-format:0;">944619</td><td style="mso-number-format:0\.00;">2379293.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2015</td><td style="mso-number-format:0;">971633</td><td style="mso-number-format:0\.00;">2475362.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2015</td><td style="mso-number-format:0;">824282</td><td style="mso-number-format:0\.00;">1882197.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Oct 2015</td><td style="mso-number-format:0;">811588</td><td style="mso-number-format:0\.00;">1865922.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Oct 2015</td><td style="mso-number-format:0;">755865</td><td style="mso-number-format:0\.00;">1926874.50</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2015</td><td style="mso-number-format:0;">828595</td><td style="mso-number-format:0\.00;">1968947.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2015</td><td style="mso-number-format:0;">496445</td><td style="mso-number-format:0\.00;">1173092.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2015</td><td style="mso-number-format:0;">980850</td><td style="mso-number-format:0\.00;">2447044.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Oct 2015</td><td style="mso-number-format:0;">743752</td><td style="mso-number-format:0\.00;">1716591.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Oct 2015</td><td style="mso-number-format:0;">743551</td><td style="mso-number-format:0\.00;">1665073.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2015</td><td style="mso-number-format:0;">1032262</td><td style="mso-number-format:0\.00;">2387093.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2015</td><td style="mso-number-format:0;">1073915</td><td style="mso-number-format:0\.00;">2617700.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2015</td><td style="mso-number-format:0;">922996</td><td style="mso-number-format:0\.00;">2136800.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Nov 2015</td><td style="mso-number-format:0;">758868</td><td style="mso-number-format:0\.00;">1728607.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Nov 2015</td><td style="mso-number-format:0;">884481</td><td style="mso-number-format:0\.00;">2280601.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2015</td><td style="mso-number-format:0;">968972</td><td style="mso-number-format:0\.00;">2258918.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2015</td><td style="mso-number-format:0;">833997</td><td style="mso-number-format:0\.00;">2040680.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2015</td><td style="mso-number-format:0;">831025</td><td style="mso-number-format:0\.00;">2141504.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Nov 2015</td><td style="mso-number-format:0;">687485</td><td style="mso-number-format:0\.00;">1601253.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Nov 2015</td><td style="mso-number-format:0;">754256</td><td style="mso-number-format:0\.00;">1760250.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2015</td><td style="mso-number-format:0;">143829</td><td style="mso-number-format:0\.00;">321292.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Nov 2015</td><td style="mso-number-format:0;">587692</td><td style="mso-number-format:0\.00;">1382249.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Nov 2015</td><td style="mso-number-format:0;">701488</td><td style="mso-number-format:0\.00;">1520559.44</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Nov 2015</td><td style="mso-number-format:0;">921919</td><td style="mso-number-format:0\.00;">2100464.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Nov 2015</td><td style="mso-number-format:0;">974954</td><td style="mso-number-format:0\.00;">2244757.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2015</td><td style="mso-number-format:0;">920876</td><td style="mso-number-format:0\.00;">1964966.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2015</td><td style="mso-number-format:0;">954614</td><td style="mso-number-format:0\.00;">2179045.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2015</td><td style="mso-number-format:0;">1005139</td><td style="mso-number-format:0\.00;">2375293.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Nov 2015</td><td style="mso-number-format:0;">1121054</td><td style="mso-number-format:0\.00;">2365994.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Nov 2015</td><td style="mso-number-format:0;">1059425</td><td style="mso-number-format:0\.00;">2282008.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2015</td><td style="mso-number-format:0;">618999</td><td style="mso-number-format:0\.00;">1298065.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2015</td><td style="mso-number-format:0;">811211</td><td style="mso-number-format:0\.00;">1813641.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2015</td><td style="mso-number-format:0;">874301</td><td style="mso-number-format:0\.00;">2189173.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Nov 2015</td><td style="mso-number-format:0;">987454</td><td style="mso-number-format:0\.00;">2318038.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Dec 2015</td><td style="mso-number-format:0;">903536</td><td style="mso-number-format:0\.00;">2125889.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2015</td><td style="mso-number-format:0;">881802</td><td style="mso-number-format:0\.00;">2021223.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2015</td><td style="mso-number-format:0;">982772</td><td style="mso-number-format:0\.00;">2237652.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2015</td><td style="mso-number-format:0;">1128562</td><td style="mso-number-format:0\.00;">2700356.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Dec 2015</td><td style="mso-number-format:0;">824556</td><td style="mso-number-format:0\.00;">1712447.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Dec 2015</td><td style="mso-number-format:0;">1002834</td><td style="mso-number-format:0\.00;">2111332.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2015</td><td style="mso-number-format:0;">1044797</td><td style="mso-number-format:0\.00;">2248650.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2015</td><td style="mso-number-format:0;">813527</td><td style="mso-number-format:0\.00;">1680576.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2015</td><td style="mso-number-format:0;">963373</td><td style="mso-number-format:0\.00;">2198228.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Dec 2015</td><td style="mso-number-format:0;">994087</td><td style="mso-number-format:0\.00;">1998026.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Dec 2015</td><td style="mso-number-format:0;">1019944</td><td style="mso-number-format:0\.00;">2115408.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2015</td><td style="mso-number-format:0;">1028912</td><td style="mso-number-format:0\.00;">2185366.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2015</td><td style="mso-number-format:0;">1023144</td><td style="mso-number-format:0\.00;">2345579.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2015</td><td style="mso-number-format:0;">1131309</td><td style="mso-number-format:0\.00;">2397695.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Dec 2015</td><td style="mso-number-format:0;">888046</td><td style="mso-number-format:0\.00;">1981627.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Dec 2015</td><td style="mso-number-format:0;">777658</td><td style="mso-number-format:0\.00;">1688374.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2015</td><td style="mso-number-format:0;">874217</td><td style="mso-number-format:0\.00;">1853295.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2015</td><td style="mso-number-format:0;">491015</td><td style="mso-number-format:0\.00;">1003571.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Dec 2015</td><td style="mso-number-format:0;">703862</td><td style="mso-number-format:0\.00;">1464569.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Dec 2015</td><td style="mso-number-format:0;">846437</td><td style="mso-number-format:0\.00;">1876963.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2015</td><td style="mso-number-format:0;">784329</td><td style="mso-number-format:0\.00;">1784026.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Dec 2015</td><td style="mso-number-format:0;">787343</td><td style="mso-number-format:0\.00;">1630975.77</td><td>-</td>
+	</tr>
+	</tbody>
+
+</table></body></html>

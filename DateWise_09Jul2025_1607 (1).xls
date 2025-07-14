@@ -1,0 +1,1571 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+<table rules="all" border="1" id="ctl00_cph_InnerContainerRight_C004_rgDate_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Instrument Type</th><th scope="col">Date</th><th scope="col">Traded Contract(Lots)</th><th scope="col">Total Value (Lacs)</th><th scope="col">Premium Value (Lacs)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>FUTCOM</td><td>01 Jan 2024</td><td style="mso-number-format:0;">55674</td><td style="mso-number-format:0\.00;">193162.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Jan 2024</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">172.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Jan 2024</td><td style="mso-number-format:0;">150532</td><td style="mso-number-format:0\.00;">840919.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Jan 2024</td><td style="mso-number-format:0;">308</td><td style="mso-number-format:0\.00;">2533.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jan 2024</td><td style="mso-number-format:0;">595985</td><td style="mso-number-format:0\.00;">2020450.36</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Jan 2024</td><td style="mso-number-format:0;">1944332</td><td style="mso-number-format:0\.00;">11385108.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Jan 2024</td><td style="mso-number-format:0;">504</td><td style="mso-number-format:0\.00;">4108.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Jan 2024</td><td style="mso-number-format:0;">1773641</td><td style="mso-number-format:0\.00;">10538804.27</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jan 2024</td><td style="mso-number-format:0;">806139</td><td style="mso-number-format:0\.00;">2854404.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jan 2024</td><td style="mso-number-format:0;">2036133</td><td style="mso-number-format:0\.00;">11579217.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jan 2024</td><td style="mso-number-format:0;">562688</td><td style="mso-number-format:0\.00;">1843253.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Jan 2024</td><td style="mso-number-format:0;">154</td><td style="mso-number-format:0\.00;">1247.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Jan 2024</td><td style="mso-number-format:0;">395</td><td style="mso-number-format:0\.00;">3205.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jan 2024</td><td style="mso-number-format:0;">652226</td><td style="mso-number-format:0\.00;">2402225.01</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jan 2024</td><td style="mso-number-format:0;">1825883</td><td style="mso-number-format:0\.00;">10978009.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Jan 2024</td><td style="mso-number-format:0;">2261922</td><td style="mso-number-format:0\.00;">13210335.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Jan 2024</td><td style="mso-number-format:0;">229</td><td style="mso-number-format:0\.00;">1845.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jan 2024</td><td style="mso-number-format:0;">554003</td><td style="mso-number-format:0\.00;">2002804.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Jan 2024</td><td style="mso-number-format:0;">131</td><td style="mso-number-format:0\.00;">1057.43</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Jan 2024</td><td style="mso-number-format:0;">2760962</td><td style="mso-number-format:0\.00;">14968137.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jan 2024</td><td style="mso-number-format:0;">639796</td><td style="mso-number-format:0\.00;">2134496.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jan 2024</td><td style="mso-number-format:0;">593436</td><td style="mso-number-format:0\.00;">1997034.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Jan 2024</td><td style="mso-number-format:0;">3013393</td><td style="mso-number-format:0\.00;">16600854.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Jan 2024</td><td style="mso-number-format:0;">137</td><td style="mso-number-format:0\.00;">1102.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jan 2024</td><td style="mso-number-format:0;">3215731</td><td style="mso-number-format:0\.00;">18383320.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Jan 2024</td><td style="mso-number-format:0;">209</td><td style="mso-number-format:0\.00;">1677.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jan 2024</td><td style="mso-number-format:0;">696621</td><td style="mso-number-format:0\.00;">2551398.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Jan 2024</td><td style="mso-number-format:0;">345</td><td style="mso-number-format:0\.00;">2787.97</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jan 2024</td><td style="mso-number-format:0;">4030456</td><td style="mso-number-format:0\.00;">23510253.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jan 2024</td><td style="mso-number-format:0;">845674</td><td style="mso-number-format:0\.00;">3158332.53</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Jan 2024</td><td style="mso-number-format:0;">92</td><td style="mso-number-format:0\.00;">745.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jan 2024</td><td style="mso-number-format:0;">359413</td><td style="mso-number-format:0\.00;">1301737.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Jan 2024</td><td style="mso-number-format:0;">2780784</td><td style="mso-number-format:0\.00;">15917390.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Jan 2024</td><td style="mso-number-format:0;">188</td><td style="mso-number-format:0\.00;">1516.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jan 2024</td><td style="mso-number-format:0;">572156</td><td style="mso-number-format:0\.00;">2158043.10</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Jan 2024</td><td style="mso-number-format:0;">4057155</td><td style="mso-number-format:0\.00;">23948159.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jan 2024</td><td style="mso-number-format:0;">556282</td><td style="mso-number-format:0\.00;">2177582.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Jan 2024</td><td style="mso-number-format:0;">2664807</td><td style="mso-number-format:0\.00;">14945457.67</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Jan 2024</td><td style="mso-number-format:0;">194</td><td style="mso-number-format:0\.00;">1551.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Jan 2024</td><td style="mso-number-format:0;">100</td><td style="mso-number-format:0\.00;">798.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jan 2024</td><td style="mso-number-format:0;">494233</td><td style="mso-number-format:0\.00;">1665207.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jan 2024</td><td style="mso-number-format:0;">1823397</td><td style="mso-number-format:0\.00;">8665942.36</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jan 2024</td><td style="mso-number-format:0;">1819232</td><td style="mso-number-format:0\.00;">9087272.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Jan 2024</td><td style="mso-number-format:0;">134</td><td style="mso-number-format:0\.00;">1074.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jan 2024</td><td style="mso-number-format:0;">442588</td><td style="mso-number-format:0\.00;">1594833.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Jan 2024</td><td style="mso-number-format:0;">66</td><td style="mso-number-format:0\.00;">526.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Jan 2024</td><td style="mso-number-format:0;">1234446</td><td style="mso-number-format:0\.00;">5729695.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jan 2024</td><td style="mso-number-format:0;">317595</td><td style="mso-number-format:0\.00;">1034634.63</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Jan 2024</td><td style="mso-number-format:0;">1498696</td><td style="mso-number-format:0\.00;">8993159.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jan 2024</td><td style="mso-number-format:0;">422550</td><td style="mso-number-format:0\.00;">1539456.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Jan 2024</td><td style="mso-number-format:0;">172</td><td style="mso-number-format:0\.00;">1376.20</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Jan 2024</td><td style="mso-number-format:0;">552</td><td style="mso-number-format:0\.00;">4434.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Jan 2024</td><td style="mso-number-format:0;">1304711</td><td style="mso-number-format:0\.00;">8283443.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jan 2024</td><td style="mso-number-format:0;">525883</td><td style="mso-number-format:0\.00;">2047208.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Jan 2024</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">618.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jan 2024</td><td style="mso-number-format:0;">1216998</td><td style="mso-number-format:0\.00;">6602894.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jan 2024</td><td style="mso-number-format:0;">435744</td><td style="mso-number-format:0\.00;">1592389.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jan 2024</td><td style="mso-number-format:0;">437464</td><td style="mso-number-format:0\.00;">1893289.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Jan 2024</td><td style="mso-number-format:0;">164</td><td style="mso-number-format:0\.00;">1322.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Jan 2024</td><td style="mso-number-format:0;">1406864</td><td style="mso-number-format:0\.00;">8251339.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Jan 2024</td><td style="mso-number-format:0;">158</td><td style="mso-number-format:0\.00;">1278.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Jan 2024</td><td style="mso-number-format:0;">1490970</td><td style="mso-number-format:0\.00;">8843897.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jan 2024</td><td style="mso-number-format:0;">405216</td><td style="mso-number-format:0\.00;">1664883.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jan 2024</td><td style="mso-number-format:0;">399510</td><td style="mso-number-format:0\.00;">1419299.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Jan 2024</td><td style="mso-number-format:0;">1747804</td><td style="mso-number-format:0\.00;">10250918.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>31 Jan 2024</td><td style="mso-number-format:0;">119</td><td style="mso-number-format:0\.00;">963.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Feb 2024</td><td style="mso-number-format:0;">307</td><td style="mso-number-format:0\.00;">2483.05</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Feb 2024</td><td style="mso-number-format:0;">1900235</td><td style="mso-number-format:0\.00;">11705308.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Feb 2024</td><td style="mso-number-format:0;">639407</td><td style="mso-number-format:0\.00;">2523212.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Feb 2024</td><td style="mso-number-format:0;">199</td><td style="mso-number-format:0\.00;">1604.37</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Feb 2024</td><td style="mso-number-format:0;">1974444</td><td style="mso-number-format:0\.00;">11824010.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Feb 2024</td><td style="mso-number-format:0;">541047</td><td style="mso-number-format:0\.00;">2086159.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Feb 2024</td><td style="mso-number-format:0;">162</td><td style="mso-number-format:0\.00;">1297.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Feb 2024</td><td style="mso-number-format:0;">385311</td><td style="mso-number-format:0\.00;">1467648.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Feb 2024</td><td style="mso-number-format:0;">1969529</td><td style="mso-number-format:0\.00;">11635583.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Feb 2024</td><td style="mso-number-format:0;">346048</td><td style="mso-number-format:0\.00;">1201165.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Feb 2024</td><td style="mso-number-format:0;">1874904</td><td style="mso-number-format:0\.00;">10877490.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Feb 2024</td><td style="mso-number-format:0;">94</td><td style="mso-number-format:0\.00;">753.60</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Feb 2024</td><td style="mso-number-format:0;">1827085</td><td style="mso-number-format:0\.00;">10476727.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Feb 2024</td><td style="mso-number-format:0;">78</td><td style="mso-number-format:0\.00;">625.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Feb 2024</td><td style="mso-number-format:0;">353378</td><td style="mso-number-format:0\.00;">1304475.70</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Feb 2024</td><td style="mso-number-format:0;">452116</td><td style="mso-number-format:0\.00;">1722301.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Feb 2024</td><td style="mso-number-format:0;">117</td><td style="mso-number-format:0\.00;">936.77</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Feb 2024</td><td style="mso-number-format:0;">2060018</td><td style="mso-number-format:0\.00;">12206655.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Feb 2024</td><td style="mso-number-format:0;">102</td><td style="mso-number-format:0\.00;">817.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Feb 2024</td><td style="mso-number-format:0;">424558</td><td style="mso-number-format:0\.00;">1435261.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Feb 2024</td><td style="mso-number-format:0;">2516941</td><td style="mso-number-format:0\.00;">14683010.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Feb 2024</td><td style="mso-number-format:0;">2789094</td><td style="mso-number-format:0\.00;">16876327.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Feb 2024</td><td style="mso-number-format:0;">156</td><td style="mso-number-format:0\.00;">1249.90</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Feb 2024</td><td style="mso-number-format:0;">505850</td><td style="mso-number-format:0\.00;">1782850.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Feb 2024</td><td style="mso-number-format:0;">3476565</td><td style="mso-number-format:0\.00;">21103288.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Feb 2024</td><td style="mso-number-format:0;">621258</td><td style="mso-number-format:0\.00;">2323567.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Feb 2024</td><td style="mso-number-format:0;">226</td><td style="mso-number-format:0\.00;">1799.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Feb 2024</td><td style="mso-number-format:0;">498161</td><td style="mso-number-format:0\.00;">1630456.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Feb 2024</td><td style="mso-number-format:0;">2409510</td><td style="mso-number-format:0\.00;">13510244.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Feb 2024</td><td style="mso-number-format:0;">96</td><td style="mso-number-format:0\.00;">758.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Feb 2024</td><td style="mso-number-format:0;">572886</td><td style="mso-number-format:0\.00;">1858775.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Feb 2024</td><td style="mso-number-format:0;">154</td><td style="mso-number-format:0\.00;">1222.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Feb 2024</td><td style="mso-number-format:0;">1330088</td><td style="mso-number-format:0\.00;">6581451.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Feb 2024</td><td style="mso-number-format:0;">1388739</td><td style="mso-number-format:0\.00;">7288704.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Feb 2024</td><td style="mso-number-format:0;">551738</td><td style="mso-number-format:0\.00;">1840199.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Feb 2024</td><td style="mso-number-format:0;">145</td><td style="mso-number-format:0\.00;">1156.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Feb 2024</td><td style="mso-number-format:0;">319388</td><td style="mso-number-format:0\.00;">978355.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Feb 2024</td><td style="mso-number-format:0;">175</td><td style="mso-number-format:0\.00;">1400.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Feb 2024</td><td style="mso-number-format:0;">1045832</td><td style="mso-number-format:0\.00;">4778743.66</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Feb 2024</td><td style="mso-number-format:0;">1613000</td><td style="mso-number-format:0\.00;">7890600.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Feb 2024</td><td style="mso-number-format:0;">383934</td><td style="mso-number-format:0\.00;">1246529.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Feb 2024</td><td style="mso-number-format:0;">101</td><td style="mso-number-format:0\.00;">808.84</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Feb 2024</td><td style="mso-number-format:0;">2350721</td><td style="mso-number-format:0\.00;">9166306.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Feb 2024</td><td style="mso-number-format:0;">533118</td><td style="mso-number-format:0\.00;">1438502.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Feb 2024</td><td style="mso-number-format:0;">99</td><td style="mso-number-format:0\.00;">792.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Feb 2024</td><td style="mso-number-format:0;">708765</td><td style="mso-number-format:0\.00;">1826764.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Feb 2024</td><td style="mso-number-format:0;">251</td><td style="mso-number-format:0\.00;">2006.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Feb 2024</td><td style="mso-number-format:0;">1705616</td><td style="mso-number-format:0\.00;">9197041.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Feb 2024</td><td style="mso-number-format:0;">1374374</td><td style="mso-number-format:0\.00;">8839076.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Feb 2024</td><td style="mso-number-format:0;">581721</td><td style="mso-number-format:0\.00;">1826915.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Feb 2024</td><td style="mso-number-format:0;">332</td><td style="mso-number-format:0\.00;">2644.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Feb 2024</td><td style="mso-number-format:0;">96</td><td style="mso-number-format:0\.00;">765.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Feb 2024</td><td style="mso-number-format:0;">450802</td><td style="mso-number-format:0\.00;">1356071.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Feb 2024</td><td style="mso-number-format:0;">1230416</td><td style="mso-number-format:0\.00;">6470697.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Feb 2024</td><td style="mso-number-format:0;">1366190</td><td style="mso-number-format:0\.00;">7165783.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Feb 2024</td><td style="mso-number-format:0;">444623</td><td style="mso-number-format:0\.00;">1698356.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Feb 2024</td><td style="mso-number-format:0;">79</td><td style="mso-number-format:0\.00;">630.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Feb 2024</td><td style="mso-number-format:0;">92</td><td style="mso-number-format:0\.00;">731.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Feb 2024</td><td style="mso-number-format:0;">1540005</td><td style="mso-number-format:0\.00;">8844681.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Feb 2024</td><td style="mso-number-format:0;">380076</td><td style="mso-number-format:0\.00;">1435504.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Feb 2024</td><td style="mso-number-format:0;">420135</td><td style="mso-number-format:0\.00;">1493604.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Feb 2024</td><td style="mso-number-format:0;">206</td><td style="mso-number-format:0\.00;">1644.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Feb 2024</td><td style="mso-number-format:0;">1689873</td><td style="mso-number-format:0\.00;">9894915.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Mar 2024</td><td style="mso-number-format:0;">346</td><td style="mso-number-format:0\.00;">2784.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Mar 2024</td><td style="mso-number-format:0;">1749450</td><td style="mso-number-format:0\.00;">11429255.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Mar 2024</td><td style="mso-number-format:0;">530703</td><td style="mso-number-format:0\.00;">2106214.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Mar 2024</td><td style="mso-number-format:0;">257</td><td style="mso-number-format:0\.00;">2100.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Mar 2024</td><td style="mso-number-format:0;">623008</td><td style="mso-number-format:0\.00;">2106436.99</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Mar 2024</td><td style="mso-number-format:0;">1919690</td><td style="mso-number-format:0\.00;">11677290.62</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Mar 2024</td><td style="mso-number-format:0;">2548164</td><td style="mso-number-format:0\.00;">16429258.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Mar 2024</td><td style="mso-number-format:0;">231</td><td style="mso-number-format:0\.00;">1909.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Mar 2024</td><td style="mso-number-format:0;">562315</td><td style="mso-number-format:0\.00;">2076884.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Mar 2024</td><td style="mso-number-format:0;">173</td><td style="mso-number-format:0\.00;">1433.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Mar 2024</td><td style="mso-number-format:0;">475622</td><td style="mso-number-format:0\.00;">1734926.42</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Mar 2024</td><td style="mso-number-format:0;">1836889</td><td style="mso-number-format:0\.00;">11613860.24</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Mar 2024</td><td style="mso-number-format:0;">2453611</td><td style="mso-number-format:0\.00;">15429560.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Mar 2024</td><td style="mso-number-format:0;">472649</td><td style="mso-number-format:0\.00;">1767004.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Mar 2024</td><td style="mso-number-format:0;">149</td><td style="mso-number-format:0\.00;">1241.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Mar 2024</td><td style="mso-number-format:0;">222</td><td style="mso-number-format:0\.00;">1862.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Mar 2024</td><td style="mso-number-format:0;">350282</td><td style="mso-number-format:0\.00;">1519401.12</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Mar 2024</td><td style="mso-number-format:0;">1586759</td><td style="mso-number-format:0\.00;">10287725.54</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Mar 2024</td><td style="mso-number-format:0;">2648395</td><td style="mso-number-format:0\.00;">16296539.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Mar 2024</td><td style="mso-number-format:0;">152</td><td style="mso-number-format:0\.00;">1276.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Mar 2024</td><td style="mso-number-format:0;">322019</td><td style="mso-number-format:0\.00;">1238719.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Mar 2024</td><td style="mso-number-format:0;">3130637</td><td style="mso-number-format:0\.00;">19299547.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Mar 2024</td><td style="mso-number-format:0;">281</td><td style="mso-number-format:0\.00;">2351.05</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Mar 2024</td><td style="mso-number-format:0;">514671</td><td style="mso-number-format:0\.00;">2020575.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Mar 2024</td><td style="mso-number-format:0;">138</td><td style="mso-number-format:0\.00;">1156.02</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Mar 2024</td><td style="mso-number-format:0;">444411</td><td style="mso-number-format:0\.00;">1622263.50</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Mar 2024</td><td style="mso-number-format:0;">3005748</td><td style="mso-number-format:0\.00;">18572769.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Mar 2024</td><td style="mso-number-format:0;">408381</td><td style="mso-number-format:0\.00;">1429372.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Mar 2024</td><td style="mso-number-format:0;">101</td><td style="mso-number-format:0\.00;">847.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Mar 2024</td><td style="mso-number-format:0;">3560805</td><td style="mso-number-format:0\.00;">22105332.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Mar 2024</td><td style="mso-number-format:0;">2636462</td><td style="mso-number-format:0\.00;">14636323.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Mar 2024</td><td style="mso-number-format:0;">447862</td><td style="mso-number-format:0\.00;">1720105.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Mar 2024</td><td style="mso-number-format:0;">94</td><td style="mso-number-format:0\.00;">789.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Mar 2024</td><td style="mso-number-format:0;">405965</td><td style="mso-number-format:0\.00;">1370882.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Mar 2024</td><td style="mso-number-format:0;">174</td><td style="mso-number-format:0\.00;">1457.77</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Mar 2024</td><td style="mso-number-format:0;">1491243</td><td style="mso-number-format:0\.00;">6760656.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Mar 2024</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">1366.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Mar 2024</td><td style="mso-number-format:0;">1402422</td><td style="mso-number-format:0\.00;">6373087.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Mar 2024</td><td style="mso-number-format:0;">409424</td><td style="mso-number-format:0\.00;">1392652.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Mar 2024</td><td style="mso-number-format:0;">111</td><td style="mso-number-format:0\.00;">932.09</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Mar 2024</td><td style="mso-number-format:0;">1711380</td><td style="mso-number-format:0\.00;">7873415.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Mar 2024</td><td style="mso-number-format:0;">356534</td><td style="mso-number-format:0\.00;">1357618.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Mar 2024</td><td style="mso-number-format:0;">647076</td><td style="mso-number-format:0\.00;">2751061.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Mar 2024</td><td style="mso-number-format:0;">1364035</td><td style="mso-number-format:0\.00;">10158553.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Mar 2024</td><td style="mso-number-format:0;">432</td><td style="mso-number-format:0\.00;">3670.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Mar 2024</td><td style="mso-number-format:0;">228</td><td style="mso-number-format:0\.00;">1919.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Mar 2024</td><td style="mso-number-format:0;">427035</td><td style="mso-number-format:0\.00;">1906472.46</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Mar 2024</td><td style="mso-number-format:0;">927673</td><td style="mso-number-format:0\.00;">8740578.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Mar 2024</td><td style="mso-number-format:0;">209420</td><td style="mso-number-format:0\.00;">735593.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Mar 2024</td><td style="mso-number-format:0;">122</td><td style="mso-number-format:0\.00;">1027.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Mar 2024</td><td style="mso-number-format:0;">660584</td><td style="mso-number-format:0\.00;">5703261.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Mar 2024</td><td style="mso-number-format:0;">386920</td><td style="mso-number-format:0\.00;">1884000.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Mar 2024</td><td style="mso-number-format:0;">266</td><td style="mso-number-format:0\.00;">2240.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Mar 2024</td><td style="mso-number-format:0;">1001925</td><td style="mso-number-format:0\.00;">8073805.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Mar 2024</td><td style="mso-number-format:0;">318849</td><td style="mso-number-format:0\.00;">1587370.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Mar 2024</td><td style="mso-number-format:0;">129</td><td style="mso-number-format:0\.00;">1087.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Mar 2024</td><td style="mso-number-format:0;">955090</td><td style="mso-number-format:0\.00;">5778155.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Mar 2024</td><td style="mso-number-format:0;">244</td><td style="mso-number-format:0\.00;">2070.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Mar 2024</td><td style="mso-number-format:0;">489789</td><td style="mso-number-format:0\.00;">2471271.16</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Mar 2024</td><td style="mso-number-format:0;">1012719</td><td style="mso-number-format:0\.00;">6362497.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Apr 2024</td><td style="mso-number-format:0;">595487</td><td style="mso-number-format:0\.00;">2073124.72</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Apr 2024</td><td style="mso-number-format:0;">1525694</td><td style="mso-number-format:0\.00;">9459770.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Apr 2024</td><td style="mso-number-format:0;">341</td><td style="mso-number-format:0\.00;">2936.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Apr 2024</td><td style="mso-number-format:0;">1740290</td><td style="mso-number-format:0\.00;">10846681.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Apr 2024</td><td style="mso-number-format:0;">293</td><td style="mso-number-format:0\.00;">2537.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Apr 2024</td><td style="mso-number-format:0;">627307</td><td style="mso-number-format:0\.00;">2236900.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Apr 2024</td><td style="mso-number-format:0;">1435401</td><td style="mso-number-format:0\.00;">9419738.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Apr 2024</td><td style="mso-number-format:0;">602634</td><td style="mso-number-format:0\.00;">2286575.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Apr 2024</td><td style="mso-number-format:0;">389</td><td style="mso-number-format:0\.00;">3411.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Apr 2024</td><td style="mso-number-format:0;">182</td><td style="mso-number-format:0\.00;">1609.01</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Apr 2024</td><td style="mso-number-format:0;">1399534</td><td style="mso-number-format:0\.00;">8860349.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Apr 2024</td><td style="mso-number-format:0;">517160</td><td style="mso-number-format:0\.00;">1974268.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Apr 2024</td><td style="mso-number-format:0;">652915</td><td style="mso-number-format:0\.00;">2532354.53</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Apr 2024</td><td style="mso-number-format:0;">287</td><td style="mso-number-format:0\.00;">2544.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Apr 2024</td><td style="mso-number-format:0;">1612142</td><td style="mso-number-format:0\.00;">11271224.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Apr 2024</td><td style="mso-number-format:0;">594288</td><td style="mso-number-format:0\.00;">2295559.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Apr 2024</td><td style="mso-number-format:0;">240</td><td style="mso-number-format:0\.00;">2160.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Apr 2024</td><td style="mso-number-format:0;">2152322</td><td style="mso-number-format:0\.00;">14609855.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Apr 2024</td><td style="mso-number-format:0;">1976542</td><td style="mso-number-format:0\.00;">13266820.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Apr 2024</td><td style="mso-number-format:0;">634642</td><td style="mso-number-format:0\.00;">2439195.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Apr 2024</td><td style="mso-number-format:0;">296</td><td style="mso-number-format:0\.00;">2685.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Apr 2024</td><td style="mso-number-format:0;">713667</td><td style="mso-number-format:0\.00;">3057446.16</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Apr 2024</td><td style="mso-number-format:0;">2699392</td><td style="mso-number-format:0\.00;">18709204.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Apr 2024</td><td style="mso-number-format:0;">302</td><td style="mso-number-format:0\.00;">2741.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Apr 2024</td><td style="mso-number-format:0;">342718</td><td style="mso-number-format:0\.00;">1151182.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Apr 2024</td><td style="mso-number-format:0;">86</td><td style="mso-number-format:0\.00;">780.93</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Apr 2024</td><td style="mso-number-format:0;">1701734</td><td style="mso-number-format:0\.00;">10726726.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Apr 2024</td><td style="mso-number-format:0;">953284</td><td style="mso-number-format:0\.00;">4269127.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Apr 2024</td><td style="mso-number-format:0;">2871888</td><td style="mso-number-format:0\.00;">20654353.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Apr 2024</td><td style="mso-number-format:0;">645</td><td style="mso-number-format:0\.00;">5971.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Apr 2024</td><td style="mso-number-format:0;">316</td><td style="mso-number-format:0\.00;">2893.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Apr 2024</td><td style="mso-number-format:0;">682670</td><td style="mso-number-format:0\.00;">3038772.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Apr 2024</td><td style="mso-number-format:0;">3822038</td><td style="mso-number-format:0\.00;">26205508.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Apr 2024</td><td style="mso-number-format:0;">630116</td><td style="mso-number-format:0\.00;">2711174.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Apr 2024</td><td style="mso-number-format:0;">352</td><td style="mso-number-format:0\.00;">3253.94</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Apr 2024</td><td style="mso-number-format:0;">3503771</td><td style="mso-number-format:0\.00;">23600208.78</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Apr 2024</td><td style="mso-number-format:0;">2559471</td><td style="mso-number-format:0\.00;">16848378.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Apr 2024</td><td style="mso-number-format:0;">434975</td><td style="mso-number-format:0\.00;">1898940.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Apr 2024</td><td style="mso-number-format:0;">193</td><td style="mso-number-format:0\.00;">1786.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Apr 2024</td><td style="mso-number-format:0;">1637332</td><td style="mso-number-format:0\.00;">8688167.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Apr 2024</td><td style="mso-number-format:0;">144</td><td style="mso-number-format:0\.00;">1328.88</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Apr 2024</td><td style="mso-number-format:0;">527255</td><td style="mso-number-format:0\.00;">2199997.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Apr 2024</td><td style="mso-number-format:0;">2105873</td><td style="mso-number-format:0\.00;">11540241.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Apr 2024</td><td style="mso-number-format:0;">376</td><td style="mso-number-format:0\.00;">3468.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Apr 2024</td><td style="mso-number-format:0;">584890</td><td style="mso-number-format:0\.00;">2689271.29</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Apr 2024</td><td style="mso-number-format:0;">1923669</td><td style="mso-number-format:0\.00;">12060561.56</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Apr 2024</td><td style="mso-number-format:0;">559</td><td style="mso-number-format:0\.00;">5075.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Apr 2024</td><td style="mso-number-format:0;">729889</td><td style="mso-number-format:0\.00;">3150368.68</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Apr 2024</td><td style="mso-number-format:0;">725975</td><td style="mso-number-format:0\.00;">3154622.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Apr 2024</td><td style="mso-number-format:0;">622</td><td style="mso-number-format:0\.00;">5564.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Apr 2024</td><td style="mso-number-format:0;">1987705</td><td style="mso-number-format:0\.00;">14140649.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Apr 2024</td><td style="mso-number-format:0;">1438578</td><td style="mso-number-format:0\.00;">10326465.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Apr 2024</td><td style="mso-number-format:0;">386</td><td style="mso-number-format:0\.00;">3470.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Apr 2024</td><td style="mso-number-format:0;">577338</td><td style="mso-number-format:0\.00;">2121812.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Apr 2024</td><td style="mso-number-format:0;">539088</td><td style="mso-number-format:0\.00;">2375098.64</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Apr 2024</td><td style="mso-number-format:0;">1327224</td><td style="mso-number-format:0\.00;">8884831.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Apr 2024</td><td style="mso-number-format:0;">215</td><td style="mso-number-format:0\.00;">1936.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Apr 2024</td><td style="mso-number-format:0;">214</td><td style="mso-number-format:0\.00;">1936.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Apr 2024</td><td style="mso-number-format:0;">487387</td><td style="mso-number-format:0\.00;">2421336.33</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Apr 2024</td><td style="mso-number-format:0;">1223478</td><td style="mso-number-format:0\.00;">8173131.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Apr 2024</td><td style="mso-number-format:0;">143</td><td style="mso-number-format:0\.00;">1292.16</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Apr 2024</td><td style="mso-number-format:0;">1458487</td><td style="mso-number-format:0\.00;">9316970.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Apr 2024</td><td style="mso-number-format:0;">489970</td><td style="mso-number-format:0\.00;">2110938.79</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Apr 2024</td><td style="mso-number-format:0;">683927</td><td style="mso-number-format:0\.00;">2827304.90</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Apr 2024</td><td style="mso-number-format:0;">2144484</td><td style="mso-number-format:0\.00;">14264668.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Apr 2024</td><td style="mso-number-format:0;">311</td><td style="mso-number-format:0\.00;">2786.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 May 2024</td><td style="mso-number-format:0;">348933</td><td style="mso-number-format:0\.00;">1511689.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 May 2024</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">1456.61</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 May 2024</td><td style="mso-number-format:0;">1832803</td><td style="mso-number-format:0\.00;">11891575.11</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 May 2024</td><td style="mso-number-format:0;">2246966</td><td style="mso-number-format:0\.00;">14735036.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 May 2024</td><td style="mso-number-format:0;">188</td><td style="mso-number-format:0\.00;">1679.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 May 2024</td><td style="mso-number-format:0;">628564</td><td style="mso-number-format:0\.00;">2739675.68</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 May 2024</td><td style="mso-number-format:0;">1967681</td><td style="mso-number-format:0\.00;">11983207.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 May 2024</td><td style="mso-number-format:0;">627022</td><td style="mso-number-format:0\.00;">2664704.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 May 2024</td><td style="mso-number-format:0;">209</td><td style="mso-number-format:0\.00;">1864.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 May 2024</td><td style="mso-number-format:0;">2152925</td><td style="mso-number-format:0\.00;">13249759.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 May 2024</td><td style="mso-number-format:0;">550859</td><td style="mso-number-format:0\.00;">2168442.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 May 2024</td><td style="mso-number-format:0;">251</td><td style="mso-number-format:0\.00;">2263.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 May 2024</td><td style="mso-number-format:0;">128</td><td style="mso-number-format:0\.00;">1156.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 May 2024</td><td style="mso-number-format:0;">421076</td><td style="mso-number-format:0\.00;">1721107.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 May 2024</td><td style="mso-number-format:0;">2228783</td><td style="mso-number-format:0\.00;">13247505.79</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 May 2024</td><td style="mso-number-format:0;">119</td><td style="mso-number-format:0\.00;">1073.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 May 2024</td><td style="mso-number-format:0;">453494</td><td style="mso-number-format:0\.00;">1968059.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 May 2024</td><td style="mso-number-format:0;">2481364</td><td style="mso-number-format:0\.00;">15282175.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 May 2024</td><td style="mso-number-format:0;">2361241</td><td style="mso-number-format:0\.00;">14805271.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 May 2024</td><td style="mso-number-format:0;">200</td><td style="mso-number-format:0\.00;">1814.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 May 2024</td><td style="mso-number-format:0;">558595</td><td style="mso-number-format:0\.00;">2467691.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 May 2024</td><td style="mso-number-format:0;">244</td><td style="mso-number-format:0\.00;">2248.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 May 2024</td><td style="mso-number-format:0;">537159</td><td style="mso-number-format:0\.00;">2500404.15</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 May 2024</td><td style="mso-number-format:0;">2299134</td><td style="mso-number-format:0\.00;">15139322.68</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 May 2024</td><td style="mso-number-format:0;">2695435</td><td style="mso-number-format:0\.00;">16530417.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 May 2024</td><td style="mso-number-format:0;">177</td><td style="mso-number-format:0\.00;">1623.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 May 2024</td><td style="mso-number-format:0;">442897</td><td style="mso-number-format:0\.00;">2021851.47</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 May 2024</td><td style="mso-number-format:0;">148</td><td style="mso-number-format:0\.00;">1358.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 May 2024</td><td style="mso-number-format:0;">503103</td><td style="mso-number-format:0\.00;">2256161.23</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 May 2024</td><td style="mso-number-format:0;">3993590</td><td style="mso-number-format:0\.00;">24649549.41</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 May 2024</td><td style="mso-number-format:0;">292</td><td style="mso-number-format:0\.00;">2702.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 May 2024</td><td style="mso-number-format:0;">5369699</td><td style="mso-number-format:0\.00;">34178650.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 May 2024</td><td style="mso-number-format:0;">731664</td><td style="mso-number-format:0\.00;">3584314.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 May 2024</td><td style="mso-number-format:0;">593317</td><td style="mso-number-format:0\.00;">2285713.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 May 2024</td><td style="mso-number-format:0;">3560819</td><td style="mso-number-format:0\.00;">20558986.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 May 2024</td><td style="mso-number-format:0;">168</td><td style="mso-number-format:0\.00;">1566.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 May 2024</td><td style="mso-number-format:0;">748106</td><td style="mso-number-format:0\.00;">3247150.99</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 May 2024</td><td style="mso-number-format:0;">1794806</td><td style="mso-number-format:0\.00;">10555243.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 May 2024</td><td style="mso-number-format:0;">257</td><td style="mso-number-format:0\.00;">2419.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 May 2024</td><td style="mso-number-format:0;">179</td><td style="mso-number-format:0\.00;">1719.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 May 2024</td><td style="mso-number-format:0;">665358</td><td style="mso-number-format:0\.00;">2755966.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 May 2024</td><td style="mso-number-format:0;">1633017</td><td style="mso-number-format:0\.00;">9694159.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 May 2024</td><td style="mso-number-format:0;">2823560</td><td style="mso-number-format:0\.00;">15769045.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 May 2024</td><td style="mso-number-format:0;">303</td><td style="mso-number-format:0\.00;">2915.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 May 2024</td><td style="mso-number-format:0;">820549</td><td style="mso-number-format:0\.00;">3774103.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 May 2024</td><td style="mso-number-format:0;">704218</td><td style="mso-number-format:0\.00;">3415516.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 May 2024</td><td style="mso-number-format:0;">326</td><td style="mso-number-format:0\.00;">3119.66</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 May 2024</td><td style="mso-number-format:0;">3165956</td><td style="mso-number-format:0\.00;">17095689.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 May 2024</td><td style="mso-number-format:0;">916819</td><td style="mso-number-format:0\.00;">4008784.38</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 May 2024</td><td style="mso-number-format:0;">373</td><td style="mso-number-format:0\.00;">3496.53</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 May 2024</td><td style="mso-number-format:0;">4177628</td><td style="mso-number-format:0\.00;">21440097.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 May 2024</td><td style="mso-number-format:0;">274</td><td style="mso-number-format:0\.00;">2548.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 May 2024</td><td style="mso-number-format:0;">2464627</td><td style="mso-number-format:0\.00;">15111449.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 May 2024</td><td style="mso-number-format:0;">573530</td><td style="mso-number-format:0\.00;">2495139.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 May 2024</td><td style="mso-number-format:0;">514</td><td style="mso-number-format:0\.00;">4815.45</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 May 2024</td><td style="mso-number-format:0;">1163795</td><td style="mso-number-format:0\.00;">9121583.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 May 2024</td><td style="mso-number-format:0;">535959</td><td style="mso-number-format:0\.00;">2552404.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 May 2024</td><td style="mso-number-format:0;">164</td><td style="mso-number-format:0\.00;">1553.41</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 May 2024</td><td style="mso-number-format:0;">1457830</td><td style="mso-number-format:0\.00;">8759552.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 May 2024</td><td style="mso-number-format:0;">680756</td><td style="mso-number-format:0\.00;">2955361.83</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 May 2024</td><td style="mso-number-format:0;">563723</td><td style="mso-number-format:0\.00;">2777665.50</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 May 2024</td><td style="mso-number-format:0;">1533597</td><td style="mso-number-format:0\.00;">8989965.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 May 2024</td><td style="mso-number-format:0;">232</td><td style="mso-number-format:0\.00;">2209.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 May 2024</td><td style="mso-number-format:0;">640540</td><td style="mso-number-format:0\.00;">3048111.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 May 2024</td><td style="mso-number-format:0;">2188291</td><td style="mso-number-format:0\.00;">13124664.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 May 2024</td><td style="mso-number-format:0;">159</td><td style="mso-number-format:0\.00;">1501.18</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 May 2024</td><td style="mso-number-format:0;">2002055</td><td style="mso-number-format:0\.00;">12019237.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>31 May 2024</td><td style="mso-number-format:0;">206</td><td style="mso-number-format:0\.00;">1938.08</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 May 2024</td><td style="mso-number-format:0;">712645</td><td style="mso-number-format:0\.00;">3006746.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jun 2024</td><td style="mso-number-format:0;">725060</td><td style="mso-number-format:0\.00;">2848921.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Jun 2024</td><td style="mso-number-format:0;">165</td><td style="mso-number-format:0\.00;">1539.44</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Jun 2024</td><td style="mso-number-format:0;">3183339</td><td style="mso-number-format:0\.00;">18271342.78</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jun 2024</td><td style="mso-number-format:0;">2394269</td><td style="mso-number-format:0\.00;">13069641.54</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Jun 2024</td><td style="mso-number-format:0;">123</td><td style="mso-number-format:0\.00;">1147.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jun 2024</td><td style="mso-number-format:0;">690109</td><td style="mso-number-format:0\.00;">2719714.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Jun 2024</td><td style="mso-number-format:0;">179</td><td style="mso-number-format:0\.00;">1666.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jun 2024</td><td style="mso-number-format:0;">578368</td><td style="mso-number-format:0\.00;">2240856.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jun 2024</td><td style="mso-number-format:0;">2588813</td><td style="mso-number-format:0\.00;">14246264.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Jun 2024</td><td style="mso-number-format:0;">727303</td><td style="mso-number-format:0\.00;">2792474.33</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Jun 2024</td><td style="mso-number-format:0;">3142228</td><td style="mso-number-format:0\.00;">17837294.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Jun 2024</td><td style="mso-number-format:0;">218</td><td style="mso-number-format:0\.00;">2061.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Jun 2024</td><td style="mso-number-format:0;">992345</td><td style="mso-number-format:0\.00;">4579205.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Jun 2024</td><td style="mso-number-format:0;">335</td><td style="mso-number-format:0\.00;">3133.88</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Jun 2024</td><td style="mso-number-format:0;">2942766</td><td style="mso-number-format:0\.00;">18010637.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jun 2024</td><td style="mso-number-format:0;">633084</td><td style="mso-number-format:0\.00;">2546120.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Jun 2024</td><td style="mso-number-format:0;">162</td><td style="mso-number-format:0\.00;">1493.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Jun 2024</td><td style="mso-number-format:0;">3724212</td><td style="mso-number-format:0\.00;">21622502.99</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jun 2024</td><td style="mso-number-format:0;">3630155</td><td style="mso-number-format:0\.00;">21393089.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Jun 2024</td><td style="mso-number-format:0;">130</td><td style="mso-number-format:0\.00;">1198.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jun 2024</td><td style="mso-number-format:0;">596415</td><td style="mso-number-format:0\.00;">2346557.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jun 2024</td><td style="mso-number-format:0;">715742</td><td style="mso-number-format:0\.00;">3081728.41</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jun 2024</td><td style="mso-number-format:0;">3857978</td><td style="mso-number-format:0\.00;">23106806.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Jun 2024</td><td style="mso-number-format:0;">168</td><td style="mso-number-format:0\.00;">1562.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Jun 2024</td><td style="mso-number-format:0;">4882275</td><td style="mso-number-format:0\.00;">29942171.67</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Jun 2024</td><td style="mso-number-format:0;">261</td><td style="mso-number-format:0\.00;">2401.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Jun 2024</td><td style="mso-number-format:0;">790989</td><td style="mso-number-format:0\.00;">3458085.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Jun 2024</td><td style="mso-number-format:0;">168</td><td style="mso-number-format:0\.00;">1550.58</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Jun 2024</td><td style="mso-number-format:0;">3510155</td><td style="mso-number-format:0\.00;">20629280.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Jun 2024</td><td style="mso-number-format:0;">604697</td><td style="mso-number-format:0\.00;">2645604.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Jun 2024</td><td style="mso-number-format:0;">90</td><td style="mso-number-format:0\.00;">830.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Jun 2024</td><td style="mso-number-format:0;">1242640</td><td style="mso-number-format:0\.00;">6278376.12</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jun 2024</td><td style="mso-number-format:0;">335480</td><td style="mso-number-format:0\.00;">1339981.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Jun 2024</td><td style="mso-number-format:0;">124</td><td style="mso-number-format:0\.00;">1142.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jun 2024</td><td style="mso-number-format:0;">2257669</td><td style="mso-number-format:0\.00;">11702948.53</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jun 2024</td><td style="mso-number-format:0;">578020</td><td style="mso-number-format:0\.00;">2618316.73</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jun 2024</td><td style="mso-number-format:0;">1717648</td><td style="mso-number-format:0\.00;">8944659.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jun 2024</td><td style="mso-number-format:0;">356856</td><td style="mso-number-format:0\.00;">1572014.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Jun 2024</td><td style="mso-number-format:0;">61</td><td style="mso-number-format:0\.00;">564.40</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Jun 2024</td><td style="mso-number-format:0;">2348551</td><td style="mso-number-format:0\.00;">12927433.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Jun 2024</td><td style="mso-number-format:0;">638067</td><td style="mso-number-format:0\.00;">2955184.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Jun 2024</td><td style="mso-number-format:0;">260</td><td style="mso-number-format:0\.00;">2431.49</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Jun 2024</td><td style="mso-number-format:0;">2262599</td><td style="mso-number-format:0\.00;">13852799.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Jun 2024</td><td style="mso-number-format:0;">717379</td><td style="mso-number-format:0\.00;">3219623.69</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Jun 2024</td><td style="mso-number-format:0;">298</td><td style="mso-number-format:0\.00;">2780.43</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Jun 2024</td><td style="mso-number-format:0;">145</td><td style="mso-number-format:0\.00;">1342.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jun 2024</td><td style="mso-number-format:0;">424633</td><td style="mso-number-format:0\.00;">1697474.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Jun 2024</td><td style="mso-number-format:0;">1617106</td><td style="mso-number-format:0\.00;">11252466.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Jun 2024</td><td style="mso-number-format:0;">342</td><td style="mso-number-format:0\.00;">3151.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jun 2024</td><td style="mso-number-format:0;">475709</td><td style="mso-number-format:0\.00;">2280774.62</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jun 2024</td><td style="mso-number-format:0;">1726581</td><td style="mso-number-format:0\.00;">14148714.97</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Jun 2024</td><td style="mso-number-format:0;">2042068</td><td style="mso-number-format:0\.00;">15494508.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Jun 2024</td><td style="mso-number-format:0;">427</td><td style="mso-number-format:0\.00;">3902.06</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jun 2024</td><td style="mso-number-format:0;">499740</td><td style="mso-number-format:0\.00;">2356296.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Jun 2024</td><td style="mso-number-format:0;">182</td><td style="mso-number-format:0\.00;">1663.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Jun 2024</td><td style="mso-number-format:0;">1668455</td><td style="mso-number-format:0\.00;">10312191.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Jun 2024</td><td style="mso-number-format:0;">475200</td><td style="mso-number-format:0\.00;">2109726.16</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Jun 2024</td><td style="mso-number-format:0;">483065</td><td style="mso-number-format:0\.00;">2404897.95</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Jun 2024</td><td style="mso-number-format:0;">1793101</td><td style="mso-number-format:0\.00;">11164259.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Jun 2024</td><td style="mso-number-format:0;">106</td><td style="mso-number-format:0\.00;">976.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Jul 2024</td><td style="mso-number-format:0;">112</td><td style="mso-number-format:0\.00;">1029.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Jul 2024</td><td style="mso-number-format:0;">1935890</td><td style="mso-number-format:0\.00;">12083171.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Jul 2024</td><td style="mso-number-format:0;">407962</td><td style="mso-number-format:0\.00;">1942065.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Jul 2024</td><td style="mso-number-format:0;">1918003</td><td style="mso-number-format:0\.00;">12313669.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Jul 2024</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">709.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Jul 2024</td><td style="mso-number-format:0;">430678</td><td style="mso-number-format:0\.00;">1910024.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Jul 2024</td><td style="mso-number-format:0;">566475</td><td style="mso-number-format:0\.00;">2585154.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Jul 2024</td><td style="mso-number-format:0;">238</td><td style="mso-number-format:0\.00;">2212.47</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Jul 2024</td><td style="mso-number-format:0;">1966242</td><td style="mso-number-format:0\.00;">13418389.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Jul 2024</td><td style="mso-number-format:0;">64</td><td style="mso-number-format:0\.00;">596.97</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Jul 2024</td><td style="mso-number-format:0;">1381713</td><td style="mso-number-format:0\.00;">8393989.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Jul 2024</td><td style="mso-number-format:0;">306510</td><td style="mso-number-format:0\.00;">1278764.62</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Jul 2024</td><td style="mso-number-format:0;">1921536</td><td style="mso-number-format:0\.00;">12901140.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Jul 2024</td><td style="mso-number-format:0;">237</td><td style="mso-number-format:0\.00;">2225.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Jul 2024</td><td style="mso-number-format:0;">603015</td><td style="mso-number-format:0\.00;">2697364.21</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Jul 2024</td><td style="mso-number-format:0;">472139</td><td style="mso-number-format:0\.00;">2076829.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Jul 2024</td><td style="mso-number-format:0;">164</td><td style="mso-number-format:0\.00;">1538.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Jul 2024</td><td style="mso-number-format:0;">2216247</td><td style="mso-number-format:0\.00;">14485300.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Jul 2024</td><td style="mso-number-format:0;">71</td><td style="mso-number-format:0\.00;">664.96</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Jul 2024</td><td style="mso-number-format:0;">3115304</td><td style="mso-number-format:0\.00;">19765021.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Jul 2024</td><td style="mso-number-format:0;">486427</td><td style="mso-number-format:0\.00;">1987966.69</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Jul 2024</td><td style="mso-number-format:0;">3391399</td><td style="mso-number-format:0\.00;">21531355.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Jul 2024</td><td style="mso-number-format:0;">456079</td><td style="mso-number-format:0\.00;">1898436.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Jul 2024</td><td style="mso-number-format:0;">117</td><td style="mso-number-format:0\.00;">1099.64</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Jul 2024</td><td style="mso-number-format:0;">124</td><td style="mso-number-format:0\.00;">1171.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Jul 2024</td><td style="mso-number-format:0;">529963</td><td style="mso-number-format:0\.00;">2689511.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Jul 2024</td><td style="mso-number-format:0;">3694748</td><td style="mso-number-format:0\.00;">24912887.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Jul 2024</td><td style="mso-number-format:0;">543267</td><td style="mso-number-format:0\.00;">2411925.54</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Jul 2024</td><td style="mso-number-format:0;">3856845</td><td style="mso-number-format:0\.00;">25279983.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Jul 2024</td><td style="mso-number-format:0;">107</td><td style="mso-number-format:0\.00;">1008.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Jul 2024</td><td style="mso-number-format:0;">100</td><td style="mso-number-format:0\.00;">944.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Jul 2024</td><td style="mso-number-format:0;">4051109</td><td style="mso-number-format:0\.00;">26171291.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Jul 2024</td><td style="mso-number-format:0;">482337</td><td style="mso-number-format:0\.00;">1999613.21</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Jul 2024</td><td style="mso-number-format:0;">572677</td><td style="mso-number-format:0\.00;">2684161.34</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Jul 2024</td><td style="mso-number-format:0;">112</td><td style="mso-number-format:0\.00;">1064.33</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Jul 2024</td><td style="mso-number-format:0;">4779570</td><td style="mso-number-format:0\.00;">31386219.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Jul 2024</td><td style="mso-number-format:0;">526801</td><td style="mso-number-format:0\.00;">2159892.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Jul 2024</td><td style="mso-number-format:0;">108</td><td style="mso-number-format:0\.00;">1028.64</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Jul 2024</td><td style="mso-number-format:0;">2885377</td><td style="mso-number-format:0\.00;">17865997.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Jul 2024</td><td style="mso-number-format:0;">66</td><td style="mso-number-format:0\.00;">627.88</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Jul 2024</td><td style="mso-number-format:0;">2188462</td><td style="mso-number-format:0\.00;">12028642.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Jul 2024</td><td style="mso-number-format:0;">522953</td><td style="mso-number-format:0\.00;">2188259.72</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Jul 2024</td><td style="mso-number-format:0;">2407775</td><td style="mso-number-format:0\.00;">14731975.81</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Jul 2024</td><td style="mso-number-format:0;">593253</td><td style="mso-number-format:0\.00;">2837678.48</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Jul 2024</td><td style="mso-number-format:0;">194</td><td style="mso-number-format:0\.00;">1816.03</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Jul 2024</td><td style="mso-number-format:0;">535117</td><td style="mso-number-format:0\.00;">2430251.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Jul 2024</td><td style="mso-number-format:0;">52</td><td style="mso-number-format:0\.00;">482.94</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Jul 2024</td><td style="mso-number-format:0;">2466502</td><td style="mso-number-format:0\.00;">13671739.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Jul 2024</td><td style="mso-number-format:0;">915178</td><td style="mso-number-format:0\.00;">6263887.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Jul 2024</td><td style="mso-number-format:0;">2930929</td><td style="mso-number-format:0\.00;">20864274.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Jul 2024</td><td style="mso-number-format:0;">537</td><td style="mso-number-format:0\.00;">4810.30</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Jul 2024</td><td style="mso-number-format:0;">556479</td><td style="mso-number-format:0\.00;">2569066.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Jul 2024</td><td style="mso-number-format:0;">219</td><td style="mso-number-format:0\.00;">1931.46</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Jul 2024</td><td style="mso-number-format:0;">2415344</td><td style="mso-number-format:0\.00;">15727798.16</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Jul 2024</td><td style="mso-number-format:0;">2529615</td><td style="mso-number-format:0\.00;">18280924.31</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Jul 2024</td><td style="mso-number-format:0;">355</td><td style="mso-number-format:0\.00;">3055.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Jul 2024</td><td style="mso-number-format:0;">723991</td><td style="mso-number-format:0\.00;">3592486.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Jul 2024</td><td style="mso-number-format:0;">446947</td><td style="mso-number-format:0\.00;">2142124.50</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Jul 2024</td><td style="mso-number-format:0;">1996405</td><td style="mso-number-format:0\.00;">12249513.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Jul 2024</td><td style="mso-number-format:0;">73</td><td style="mso-number-format:0\.00;">629.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Jul 2024</td><td style="mso-number-format:0;">551217</td><td style="mso-number-format:0\.00;">2523395.83</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Jul 2024</td><td style="mso-number-format:0;">52</td><td style="mso-number-format:0\.00;">450.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Jul 2024</td><td style="mso-number-format:0;">2616005</td><td style="mso-number-format:0\.00;">15499246.45</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Jul 2024</td><td style="mso-number-format:0;">2123267</td><td style="mso-number-format:0\.00;">12071233.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Jul 2024</td><td style="mso-number-format:0;">62</td><td style="mso-number-format:0\.00;">538.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Jul 2024</td><td style="mso-number-format:0;">532317</td><td style="mso-number-format:0\.00;">2209956.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Jul 2024</td><td style="mso-number-format:0;">511758</td><td style="mso-number-format:0\.00;">1937634.27</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Jul 2024</td><td style="mso-number-format:0;">2771997</td><td style="mso-number-format:0\.00;">16121954.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>31 Jul 2024</td><td style="mso-number-format:0;">53</td><td style="mso-number-format:0\.00;">465.14</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Aug 2024</td><td style="mso-number-format:0;">657525</td><td style="mso-number-format:0\.00;">2664271.68</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Aug 2024</td><td style="mso-number-format:0;">2788469</td><td style="mso-number-format:0\.00;">16693167.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Aug 2024</td><td style="mso-number-format:0;">82</td><td style="mso-number-format:0\.00;">723.76</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Aug 2024</td><td style="mso-number-format:0;">3545603</td><td style="mso-number-format:0\.00;">21389823.51</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Aug 2024</td><td style="mso-number-format:0;">851465</td><td style="mso-number-format:0\.00;">3607335.91</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Aug 2024</td><td style="mso-number-format:0;">112</td><td style="mso-number-format:0\.00;">990.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Aug 2024</td><td style="mso-number-format:0;">1003135</td><td style="mso-number-format:0\.00;">4205288.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Aug 2024</td><td style="mso-number-format:0;">3648801</td><td style="mso-number-format:0\.00;">21680037.52</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Aug 2024</td><td style="mso-number-format:0;">159</td><td style="mso-number-format:0\.00;">1383.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Aug 2024</td><td style="mso-number-format:0;">3547450</td><td style="mso-number-format:0\.00;">20301775.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Aug 2024</td><td style="mso-number-format:0;">742828</td><td style="mso-number-format:0\.00;">2769072.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Aug 2024</td><td style="mso-number-format:0;">43</td><td style="mso-number-format:0\.00;">371.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Aug 2024</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">465.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Aug 2024</td><td style="mso-number-format:0;">600431</td><td style="mso-number-format:0\.00;">2072267.34</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Aug 2024</td><td style="mso-number-format:0;">3569999</td><td style="mso-number-format:0\.00;">20589890.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Aug 2024</td><td style="mso-number-format:0;">715568</td><td style="mso-number-format:0\.00;">2557278.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Aug 2024</td><td style="mso-number-format:0;">159</td><td style="mso-number-format:0\.00;">1377.49</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Aug 2024</td><td style="mso-number-format:0;">3782852</td><td style="mso-number-format:0\.00;">21412332.76</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Aug 2024</td><td style="mso-number-format:0;">3199474</td><td style="mso-number-format:0\.00;">17745795.28</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Aug 2024</td><td style="mso-number-format:0;">82</td><td style="mso-number-format:0\.00;">714.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Aug 2024</td><td style="mso-number-format:0;">548257</td><td style="mso-number-format:0\.00;">2093469.78</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Aug 2024</td><td style="mso-number-format:0;">636807</td><td style="mso-number-format:0\.00;">2586560.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Aug 2024</td><td style="mso-number-format:0;">3918212</td><td style="mso-number-format:0\.00;">22445615.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Aug 2024</td><td style="mso-number-format:0;">103</td><td style="mso-number-format:0\.00;">904.22</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Aug 2024</td><td style="mso-number-format:0;">5512135</td><td style="mso-number-format:0\.00;">33212341.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Aug 2024</td><td style="mso-number-format:0;">26</td><td style="mso-number-format:0\.00;">229.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Aug 2024</td><td style="mso-number-format:0;">569905</td><td style="mso-number-format:0\.00;">2258180.90</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Aug 2024</td><td style="mso-number-format:0;">752236</td><td style="mso-number-format:0\.00;">2955508.89</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Aug 2024</td><td style="mso-number-format:0;">4136994</td><td style="mso-number-format:0\.00;">23332784.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Aug 2024</td><td style="mso-number-format:0;">121</td><td style="mso-number-format:0\.00;">1063.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Aug 2024</td><td style="mso-number-format:0;">191</td><td style="mso-number-format:0\.00;">1693.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Aug 2024</td><td style="mso-number-format:0;">767201</td><td style="mso-number-format:0\.00;">3238752.65</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Aug 2024</td><td style="mso-number-format:0;">2205339</td><td style="mso-number-format:0\.00;">12073346.25</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Aug 2024</td><td style="mso-number-format:0;">2671741</td><td style="mso-number-format:0\.00;">13474345.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Aug 2024</td><td style="mso-number-format:0;">86</td><td style="mso-number-format:0\.00;">770.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Aug 2024</td><td style="mso-number-format:0;">644843</td><td style="mso-number-format:0\.00;">2339158.59</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Aug 2024</td><td style="mso-number-format:0;">3193644</td><td style="mso-number-format:0\.00;">15741658.42</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Aug 2024</td><td style="mso-number-format:0;">59</td><td style="mso-number-format:0\.00;">532.35</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Aug 2024</td><td style="mso-number-format:0;">705172</td><td style="mso-number-format:0\.00;">2939516.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Aug 2024</td><td style="mso-number-format:0;">3126419</td><td style="mso-number-format:0\.00;">15478101.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Aug 2024</td><td style="mso-number-format:0;">543547</td><td style="mso-number-format:0\.00;">2209116.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Aug 2024</td><td style="mso-number-format:0;">31</td><td style="mso-number-format:0\.00;">279.62</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Aug 2024</td><td style="mso-number-format:0;">712469</td><td style="mso-number-format:0\.00;">2963545.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Aug 2024</td><td style="mso-number-format:0;">3574881</td><td style="mso-number-format:0\.00;">16462841.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Aug 2024</td><td style="mso-number-format:0;">70</td><td style="mso-number-format:0\.00;">628.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Aug 2024</td><td style="mso-number-format:0;">2409098</td><td style="mso-number-format:0\.00;">14556246.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Aug 2024</td><td style="mso-number-format:0;">146</td><td style="mso-number-format:0\.00;">1313.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Aug 2024</td><td style="mso-number-format:0;">760796</td><td style="mso-number-format:0\.00;">2913278.38</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Aug 2024</td><td style="mso-number-format:0;">2416398</td><td style="mso-number-format:0\.00;">17707747.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Aug 2024</td><td style="mso-number-format:0;">65</td><td style="mso-number-format:0\.00;">589.07</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Aug 2024</td><td style="mso-number-format:0;">629130</td><td style="mso-number-format:0\.00;">2430199.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Aug 2024</td><td style="mso-number-format:0;">189</td><td style="mso-number-format:0\.00;">1710.10</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Aug 2024</td><td style="mso-number-format:0;">2301818</td><td style="mso-number-format:0\.00;">16216407.00</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Aug 2024</td><td style="mso-number-format:0;">456898</td><td style="mso-number-format:0\.00;">2031804.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Aug 2024</td><td style="mso-number-format:0;">29</td><td style="mso-number-format:0\.00;">261.35</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Aug 2024</td><td style="mso-number-format:0;">2981540</td><td style="mso-number-format:0\.00;">17145194.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Aug 2024</td><td style="mso-number-format:0;">604292</td><td style="mso-number-format:0\.00;">2608813.63</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Aug 2024</td><td style="mso-number-format:0;">3192122</td><td style="mso-number-format:0\.00;">18336571.01</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Aug 2024</td><td style="mso-number-format:0;">18</td><td style="mso-number-format:0\.00;">162.66</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Aug 2024</td><td style="mso-number-format:0;">625248</td><td style="mso-number-format:0\.00;">2750699.92</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Aug 2024</td><td style="mso-number-format:0;">3303200</td><td style="mso-number-format:0\.00;">18989192.46</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Aug 2024</td><td style="mso-number-format:0;">34</td><td style="mso-number-format:0\.00;">305.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Aug 2024</td><td style="mso-number-format:0;">654920</td><td style="mso-number-format:0\.00;">2847271.61</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Sep 2024</td><td style="mso-number-format:0;">359155</td><td style="mso-number-format:0\.00;">1319278.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Sep 2024</td><td style="mso-number-format:0;">13</td><td style="mso-number-format:0\.00;">116.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Sep 2024</td><td style="mso-number-format:0;">2270446</td><td style="mso-number-format:0\.00;">12530178.88</td><td>257962.73</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Sep 2024</td><td style="mso-number-format:0;">740013</td><td style="mso-number-format:0\.00;">2873057.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Sep 2024</td><td style="mso-number-format:0;">59</td><td style="mso-number-format:0\.00;">524.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Sep 2024</td><td style="mso-number-format:0;">4050851</td><td style="mso-number-format:0\.00;">22321984.95</td><td>471456.48</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Sep 2024</td><td style="mso-number-format:0;">4084667</td><td style="mso-number-format:0\.00;">21606305.94</td><td>459998.46</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Sep 2024</td><td style="mso-number-format:0;">687946</td><td style="mso-number-format:0\.00;">2478261.23</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Sep 2024</td><td style="mso-number-format:0;">57</td><td style="mso-number-format:0\.00;">506.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Sep 2024</td><td style="mso-number-format:0;">743996</td><td style="mso-number-format:0\.00;">2850763.57</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Sep 2024</td><td style="mso-number-format:0;">3500790</td><td style="mso-number-format:0\.00;">18552823.73</td><td>391045.67</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Sep 2024</td><td style="mso-number-format:0;">52</td><td style="mso-number-format:0\.00;">466.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Sep 2024</td><td style="mso-number-format:0;">766570</td><td style="mso-number-format:0\.00;">3362008.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Sep 2024</td><td style="mso-number-format:0;">139</td><td style="mso-number-format:0\.00;">1241.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Sep 2024</td><td style="mso-number-format:0;">4033250</td><td style="mso-number-format:0\.00;">22177706.40</td><td>442922.73</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Sep 2024</td><td style="mso-number-format:0;">4313341</td><td style="mso-number-format:0\.00;">22421741.47</td><td>425639.98</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Sep 2024</td><td style="mso-number-format:0;">590955</td><td style="mso-number-format:0\.00;">2079919.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Sep 2024</td><td style="mso-number-format:0;">43</td><td style="mso-number-format:0\.00;">381.97</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Sep 2024</td><td style="mso-number-format:0;">29</td><td style="mso-number-format:0\.00;">258.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Sep 2024</td><td style="mso-number-format:0;">643386</td><td style="mso-number-format:0\.00;">2219262.00</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Sep 2024</td><td style="mso-number-format:0;">5134421</td><td style="mso-number-format:0\.00;">26697485.23</td><td>482163.47</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Sep 2024</td><td style="mso-number-format:0;">756460</td><td style="mso-number-format:0\.00;">3006228.58</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Sep 2024</td><td style="mso-number-format:0;">57</td><td style="mso-number-format:0\.00;">510.03</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Sep 2024</td><td style="mso-number-format:0;">5686690</td><td style="mso-number-format:0\.00;">30073311.12</td><td>514314.62</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Sep 2024</td><td style="mso-number-format:0;">71</td><td style="mso-number-format:0\.00;">640.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Sep 2024</td><td style="mso-number-format:0;">5912820</td><td style="mso-number-format:0\.00;">31065717.88</td><td>472728.90</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Sep 2024</td><td style="mso-number-format:0;">857307</td><td style="mso-number-format:0\.00;">3484175.86</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Sep 2024</td><td style="mso-number-format:0;">768836</td><td style="mso-number-format:0\.00;">2991443.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Sep 2024</td><td style="mso-number-format:0;">5909614</td><td style="mso-number-format:0\.00;">31704810.73</td><td>421550.53</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Sep 2024</td><td style="mso-number-format:0;">69</td><td style="mso-number-format:0\.00;">633.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Sep 2024</td><td style="mso-number-format:0;">14</td><td style="mso-number-format:0\.00;">129.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Sep 2024</td><td style="mso-number-format:0;">8530127</td><td style="mso-number-format:0\.00;">45017646.95</td><td>481253.26</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Sep 2024</td><td style="mso-number-format:0;">615594</td><td style="mso-number-format:0\.00;">2242882.44</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Sep 2024</td><td style="mso-number-format:0;">588949</td><td style="mso-number-format:0\.00;">2424928.75</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Sep 2024</td><td style="mso-number-format:0;">38</td><td style="mso-number-format:0\.00;">349.06</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Sep 2024</td><td style="mso-number-format:0;">6222492</td><td style="mso-number-format:0\.00;">32239740.88</td><td>335671.46</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Sep 2024</td><td style="mso-number-format:0;">538236</td><td style="mso-number-format:0\.00;">2024787.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Sep 2024</td><td style="mso-number-format:0;">2653536</td><td style="mso-number-format:0\.00;">12882956.58</td><td>309775.48</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Sep 2024</td><td style="mso-number-format:0;">17</td><td style="mso-number-format:0\.00;">155.88</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Sep 2024</td><td style="mso-number-format:0;">3368935</td><td style="mso-number-format:0\.00;">17546086.48</td><td>342216.30</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Sep 2024</td><td style="mso-number-format:0;">37</td><td style="mso-number-format:0\.00;">340.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Sep 2024</td><td style="mso-number-format:0;">786002</td><td style="mso-number-format:0\.00;">3395018.37</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Sep 2024</td><td style="mso-number-format:0;">201</td><td style="mso-number-format:0\.00;">1865.87</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Sep 2024</td><td style="mso-number-format:0;">725312</td><td style="mso-number-format:0\.00;">3185798.42</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Sep 2024</td><td style="mso-number-format:0;">3469415</td><td style="mso-number-format:0\.00;">17565506.62</td><td>299195.42</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Sep 2024</td><td style="mso-number-format:0;">790957</td><td style="mso-number-format:0\.00;">3502199.12</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Sep 2024</td><td style="mso-number-format:0;">4018407</td><td style="mso-number-format:0\.00;">22309342.89</td><td>403157.92</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Sep 2024</td><td style="mso-number-format:0;">163</td><td style="mso-number-format:0\.00;">1513.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Sep 2024</td><td style="mso-number-format:0;">839504</td><td style="mso-number-format:0\.00;">3941761.56</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Sep 2024</td><td style="mso-number-format:0;">133</td><td style="mso-number-format:0\.00;">1242.79</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Sep 2024</td><td style="mso-number-format:0;">2790539</td><td style="mso-number-format:0\.00;">20515943.91</td><td>362235.26</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Sep 2024</td><td style="mso-number-format:0;">675181</td><td style="mso-number-format:0\.00;">2929567.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Sep 2024</td><td style="mso-number-format:0;">32</td><td style="mso-number-format:0\.00;">302.07</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Sep 2024</td><td style="mso-number-format:0;">2859060</td><td style="mso-number-format:0\.00;">15761135.87</td><td>409552.74</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Sep 2024</td><td style="mso-number-format:0;">3456864</td><td style="mso-number-format:0\.00;">18256048.58</td><td>500924.66</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Sep 2024</td><td style="mso-number-format:0;">921532</td><td style="mso-number-format:0\.00;">4403261.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Sep 2024</td><td style="mso-number-format:0;">56</td><td style="mso-number-format:0\.00;">532.26</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Sep 2024</td><td style="mso-number-format:0;">2598254</td><td style="mso-number-format:0\.00;">13103092.67</td><td>370071.86</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Sep 2024</td><td style="mso-number-format:0;">47</td><td style="mso-number-format:0\.00;">445.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Sep 2024</td><td style="mso-number-format:0;">799246</td><td style="mso-number-format:0\.00;">3549639.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Sep 2024</td><td style="mso-number-format:0;">2973293</td><td style="mso-number-format:0\.00;">15414745.16</td><td>411883.02</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Sep 2024</td><td style="mso-number-format:0;">639595</td><td style="mso-number-format:0\.00;">2734150.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Sep 2024</td><td style="mso-number-format:0;">31</td><td style="mso-number-format:0\.00;">291.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Oct 2024</td><td style="mso-number-format:0;">5239053</td><td style="mso-number-format:0\.00;">27936024.61</td><td>718922.08</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Oct 2024</td><td style="mso-number-format:0;">854407</td><td style="mso-number-format:0\.00;">3382014.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Oct 2024</td><td style="mso-number-format:0;">48</td><td style="mso-number-format:0\.00;">454.11</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Oct 2024</td><td style="mso-number-format:0;">736310</td><td style="mso-number-format:0\.00;">2969828.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Oct 2024</td><td style="mso-number-format:0;">45</td><td style="mso-number-format:0\.00;">426.57</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Oct 2024</td><td style="mso-number-format:0;">3565954</td><td style="mso-number-format:0\.00;">19458816.86</td><td>556246.88</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Oct 2024</td><td style="mso-number-format:0;">866040</td><td style="mso-number-format:0\.00;">3784242.20</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Oct 2024</td><td style="mso-number-format:0;">76</td><td style="mso-number-format:0\.00;">723.29</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Oct 2024</td><td style="mso-number-format:0;">2827163</td><td style="mso-number-format:0\.00;">15674366.56</td><td>465569.49</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Oct 2024</td><td style="mso-number-format:0;">37</td><td style="mso-number-format:0\.00;">350.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Oct 2024</td><td style="mso-number-format:0;">591391</td><td style="mso-number-format:0\.00;">2415785.29</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Oct 2024</td><td style="mso-number-format:0;">3074916</td><td style="mso-number-format:0\.00;">17135699.47</td><td>434834.42</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Oct 2024</td><td style="mso-number-format:0;">827430</td><td style="mso-number-format:0\.00;">3793726.98</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Oct 2024</td><td style="mso-number-format:0;">105</td><td style="mso-number-format:0\.00;">983.80</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Oct 2024</td><td style="mso-number-format:0;">3714385</td><td style="mso-number-format:0\.00;">21376444.72</td><td>500769.78</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Oct 2024</td><td style="mso-number-format:0;">583327</td><td style="mso-number-format:0\.00;">2441469.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Oct 2024</td><td style="mso-number-format:0;">4052975</td><td style="mso-number-format:0\.00;">22668620.75</td><td>506216.12</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Oct 2024</td><td style="mso-number-format:0;">35</td><td style="mso-number-format:0\.00;">325.90</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Oct 2024</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">196.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Oct 2024</td><td style="mso-number-format:0;">3462360</td><td style="mso-number-format:0\.00;">18985051.79</td><td>430941.50</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Oct 2024</td><td style="mso-number-format:0;">607265</td><td style="mso-number-format:0\.00;">2488258.44</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Oct 2024</td><td style="mso-number-format:0;">3034816</td><td style="mso-number-format:0\.00;">16996428.60</td><td>373550.41</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Oct 2024</td><td style="mso-number-format:0;">559351</td><td style="mso-number-format:0\.00;">2423888.92</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Oct 2024</td><td style="mso-number-format:0;">64</td><td style="mso-number-format:0\.00;">604.74</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Oct 2024</td><td style="mso-number-format:0;">39</td><td style="mso-number-format:0\.00;">368.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Oct 2024</td><td style="mso-number-format:0;">3693462</td><td style="mso-number-format:0\.00;">20658961.17</td><td>366023.10</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Oct 2024</td><td style="mso-number-format:0;">503364</td><td style="mso-number-format:0\.00;">2088770.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Oct 2024</td><td style="mso-number-format:0;">49</td><td style="mso-number-format:0\.00;">462.56</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Oct 2024</td><td style="mso-number-format:0;">672775</td><td style="mso-number-format:0\.00;">2787053.67</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Oct 2024</td><td style="mso-number-format:0;">6323822</td><td style="mso-number-format:0\.00;">34066927.97</td><td>484060.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Oct 2024</td><td style="mso-number-format:0;">630831</td><td style="mso-number-format:0\.00;">2525048.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Oct 2024</td><td style="mso-number-format:0;">92</td><td style="mso-number-format:0\.00;">876.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Oct 2024</td><td style="mso-number-format:0;">6658088</td><td style="mso-number-format:0\.00;">34912758.75</td><td>411657.64</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Oct 2024</td><td style="mso-number-format:0;">42</td><td style="mso-number-format:0\.00;">400.24</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Oct 2024</td><td style="mso-number-format:0;">667371</td><td style="mso-number-format:0\.00;">2812211.11</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Oct 2024</td><td style="mso-number-format:0;">4875415</td><td style="mso-number-format:0\.00;">24578747.21</td><td>260033.28</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Oct 2024</td><td style="mso-number-format:0;">769937</td><td style="mso-number-format:0\.00;">3288624.08</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Oct 2024</td><td style="mso-number-format:0;">2069388</td><td style="mso-number-format:0\.00;">10168269.01</td><td>265628.77</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Oct 2024</td><td style="mso-number-format:0;">164</td><td style="mso-number-format:0\.00;">1582.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Oct 2024</td><td style="mso-number-format:0;">2493631</td><td style="mso-number-format:0\.00;">11299096.94</td><td>256199.27</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Oct 2024</td><td style="mso-number-format:0;">698182</td><td style="mso-number-format:0\.00;">2984004.80</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Oct 2024</td><td style="mso-number-format:0;">102</td><td style="mso-number-format:0\.00;">1001.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Oct 2024</td><td style="mso-number-format:0;">93</td><td style="mso-number-format:0\.00;">918.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Oct 2024</td><td style="mso-number-format:0;">726315</td><td style="mso-number-format:0\.00;">2761533.55</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Oct 2024</td><td style="mso-number-format:0;">3166103</td><td style="mso-number-format:0\.00;">13503420.54</td><td>315804.37</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Oct 2024</td><td style="mso-number-format:0;">2842073</td><td style="mso-number-format:0\.00;">11753298.59</td><td>303946.24</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Oct 2024</td><td style="mso-number-format:0;">131</td><td style="mso-number-format:0\.00;">1286.40</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Oct 2024</td><td style="mso-number-format:0;">758879</td><td style="mso-number-format:0\.00;">3292934.54</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Oct 2024</td><td style="mso-number-format:0;">2820759</td><td style="mso-number-format:0\.00;">12330063.77</td><td>317924.05</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Oct 2024</td><td style="mso-number-format:0;">836167</td><td style="mso-number-format:0\.00;">3348610.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Oct 2024</td><td style="mso-number-format:0;">155</td><td style="mso-number-format:0\.00;">1519.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Oct 2024</td><td style="mso-number-format:0;">168</td><td style="mso-number-format:0\.00;">1642.43</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Oct 2024</td><td style="mso-number-format:0;">1410364</td><td style="mso-number-format:0\.00;">8174582.53</td><td>245807.89</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Oct 2024</td><td style="mso-number-format:0;">684652</td><td style="mso-number-format:0\.00;">2788784.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Oct 2024</td><td style="mso-number-format:0;">7</td><td style="mso-number-format:0\.00;">68.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Oct 2024</td><td style="mso-number-format:0;">621349</td><td style="mso-number-format:0\.00;">2470051.86</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Oct 2024</td><td style="mso-number-format:0;">2276392</td><td style="mso-number-format:0\.00;">12063635.44</td><td>314786.85</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Oct 2024</td><td style="mso-number-format:0;">88</td><td style="mso-number-format:0\.00;">870.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Oct 2024</td><td style="mso-number-format:0;">2145760</td><td style="mso-number-format:0\.00;">11659509.02</td><td>299658.06</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Oct 2024</td><td style="mso-number-format:0;">608401</td><td style="mso-number-format:0\.00;">2559127.27</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Oct 2024</td><td style="mso-number-format:0;">71</td><td style="mso-number-format:0\.00;">705.29</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Oct 2024</td><td style="mso-number-format:0;">620179</td><td style="mso-number-format:0\.00;">2470235.20</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Oct 2024</td><td style="mso-number-format:0;">2345921</td><td style="mso-number-format:0\.00;">12769797.24</td><td>323893.69</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Oct 2024</td><td style="mso-number-format:0;">678589</td><td style="mso-number-format:0\.00;">2865442.82</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>31 Oct 2024</td><td style="mso-number-format:0;">116</td><td style="mso-number-format:0\.00;">1138.00</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Oct 2024</td><td style="mso-number-format:0;">2197260</td><td style="mso-number-format:0\.00;">12502310.77</td><td>293334.18</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>01 Nov 2024</td><td style="mso-number-format:0;">263257</td><td style="mso-number-format:0\.00;">1504904.77</td><td>36067.45</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>01 Nov 2024</td><td style="mso-number-format:0;">103232</td><td style="mso-number-format:0\.00;">463909.32</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>01 Nov 2024</td><td style="mso-number-format:0;">4</td><td style="mso-number-format:0\.00;">39.17</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Nov 2024</td><td style="mso-number-format:0;">2398344</td><td style="mso-number-format:0\.00;">12462991.94</td><td>308185.56</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Nov 2024</td><td style="mso-number-format:0;">36</td><td style="mso-number-format:0\.00;">350.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Nov 2024</td><td style="mso-number-format:0;">586436</td><td style="mso-number-format:0\.00;">2143611.55</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Nov 2024</td><td style="mso-number-format:0;">540645</td><td style="mso-number-format:0\.00;">2069557.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Nov 2024</td><td style="mso-number-format:0;">35</td><td style="mso-number-format:0\.00;">341.46</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Nov 2024</td><td style="mso-number-format:0;">2075644</td><td style="mso-number-format:0\.00;">10558963.88</td><td>267202.25</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Nov 2024</td><td style="mso-number-format:0;">4407349</td><td style="mso-number-format:0\.00;">27196321.54</td><td>528658.42</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Nov 2024</td><td style="mso-number-format:0;">1187265</td><td style="mso-number-format:0\.00;">5980835.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Nov 2024</td><td style="mso-number-format:0;">173</td><td style="mso-number-format:0\.00;">1659.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>07 Nov 2024</td><td style="mso-number-format:0;">717539</td><td style="mso-number-format:0\.00;">3095275.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>07 Nov 2024</td><td style="mso-number-format:0;">54</td><td style="mso-number-format:0\.00;">515.18</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>07 Nov 2024</td><td style="mso-number-format:0;">4156413</td><td style="mso-number-format:0\.00;">24142906.94</td><td>437944.00</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>08 Nov 2024</td><td style="mso-number-format:0;">629197</td><td style="mso-number-format:0\.00;">2670277.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>08 Nov 2024</td><td style="mso-number-format:0;">69</td><td style="mso-number-format:0\.00;">661.74</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>08 Nov 2024</td><td style="mso-number-format:0;">3586782</td><td style="mso-number-format:0\.00;">20673787.95</td><td>344136.02</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Nov 2024</td><td style="mso-number-format:0;">757465</td><td style="mso-number-format:0\.00;">3596428.76</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Nov 2024</td><td style="mso-number-format:0;">58</td><td style="mso-number-format:0\.00;">547.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Nov 2024</td><td style="mso-number-format:0;">4515817</td><td style="mso-number-format:0\.00;">26199732.50</td><td>375342.01</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Nov 2024</td><td style="mso-number-format:0;">724080</td><td style="mso-number-format:0\.00;">3195324.24</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Nov 2024</td><td style="mso-number-format:0;">5709979</td><td style="mso-number-format:0\.00;">32878950.96</td><td>424232.54</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Nov 2024</td><td style="mso-number-format:0;">38</td><td style="mso-number-format:0\.00;">353.77</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Nov 2024</td><td style="mso-number-format:0;">32</td><td style="mso-number-format:0\.00;">298.01</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Nov 2024</td><td style="mso-number-format:0;">6754354</td><td style="mso-number-format:0\.00;">37629744.14</td><td>447042.40</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Nov 2024</td><td style="mso-number-format:0;">665693</td><td style="mso-number-format:0\.00;">2726322.48</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>14 Nov 2024</td><td style="mso-number-format:0;">6929880</td><td style="mso-number-format:0\.00;">40770573.08</td><td>405630.50</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>14 Nov 2024</td><td style="mso-number-format:0;">760955</td><td style="mso-number-format:0\.00;">3408057.39</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>14 Nov 2024</td><td style="mso-number-format:0;">53</td><td style="mso-number-format:0\.00;">486.35</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>15 Nov 2024</td><td style="mso-number-format:0;">4014758</td><td style="mso-number-format:0\.00;">21555544.60</td><td>212097.16</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>15 Nov 2024</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0\.00;">138.26</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>15 Nov 2024</td><td style="mso-number-format:0;">444740</td><td style="mso-number-format:0\.00;">1732434.31</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Nov 2024</td><td style="mso-number-format:0;">2947282</td><td style="mso-number-format:0\.00;">16318365.13</td><td>333754.39</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Nov 2024</td><td style="mso-number-format:0;">46</td><td style="mso-number-format:0\.00;">428.36</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Nov 2024</td><td style="mso-number-format:0;">603080</td><td style="mso-number-format:0\.00;">2737290.79</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Nov 2024</td><td style="mso-number-format:0;">77</td><td style="mso-number-format:0\.00;">724.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Nov 2024</td><td style="mso-number-format:0;">671152</td><td style="mso-number-format:0\.00;">2991731.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Nov 2024</td><td style="mso-number-format:0;">3683914</td><td style="mso-number-format:0\.00;">21582261.72</td><td>391870.29</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Nov 2024</td><td style="mso-number-format:0;">27</td><td style="mso-number-format:0\.00;">253.95</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Nov 2024</td><td style="mso-number-format:0;">470605</td><td style="mso-number-format:0\.00;">1876592.75</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Nov 2024</td><td style="mso-number-format:0;">3354632</td><td style="mso-number-format:0\.00;">17641706.17</td><td>288818.69</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>21 Nov 2024</td><td style="mso-number-format:0;">718091</td><td style="mso-number-format:0\.00;">3234130.70</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>21 Nov 2024</td><td style="mso-number-format:0;">3492841</td><td style="mso-number-format:0\.00;">22833902.01</td><td>354572.67</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>21 Nov 2024</td><td style="mso-number-format:0;">56</td><td style="mso-number-format:0\.00;">530.57</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>22 Nov 2024</td><td style="mso-number-format:0;">916107</td><td style="mso-number-format:0\.00;">3666499.59</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>22 Nov 2024</td><td style="mso-number-format:0;">87</td><td style="mso-number-format:0\.00;">831.39</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>22 Nov 2024</td><td style="mso-number-format:0;">2879869</td><td style="mso-number-format:0\.00;">25351081.22</td><td>423418.73</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>25 Nov 2024</td><td style="mso-number-format:0;">907212</td><td style="mso-number-format:0\.00;">4767258.85</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>25 Nov 2024</td><td style="mso-number-format:0;">3625029</td><td style="mso-number-format:0\.00;">37738243.34</td><td>482174.40</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>25 Nov 2024</td><td style="mso-number-format:0;">128</td><td style="mso-number-format:0\.00;">1205.10</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Nov 2024</td><td style="mso-number-format:0;">702777</td><td style="mso-number-format:0\.00;">3294522.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Nov 2024</td><td style="mso-number-format:0;">3107474</td><td style="mso-number-format:0\.00;">28651176.23</td><td>393339.51</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Nov 2024</td><td style="mso-number-format:0;">120</td><td style="mso-number-format:0\.00;">1117.66</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Nov 2024</td><td style="mso-number-format:0;">2304721</td><td style="mso-number-format:0\.00;">13183824.89</td><td>331634.34</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Nov 2024</td><td style="mso-number-format:0;">28</td><td style="mso-number-format:0\.00;">262.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Nov 2024</td><td style="mso-number-format:0;">623440</td><td style="mso-number-format:0\.00;">3106491.04</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>28 Nov 2024</td><td style="mso-number-format:0;">449155</td><td style="mso-number-format:0\.00;">2370535.83</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>28 Nov 2024</td><td style="mso-number-format:0;">1556076</td><td style="mso-number-format:0\.00;">8590815.15</td><td>208783.55</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>28 Nov 2024</td><td style="mso-number-format:0;">15</td><td style="mso-number-format:0\.00;">140.02</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>29 Nov 2024</td><td style="mso-number-format:0;">2656161</td><td style="mso-number-format:0\.00;">14693478.85</td><td>343171.01</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>29 Nov 2024</td><td style="mso-number-format:0;">28</td><td style="mso-number-format:0\.00;">263.85</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>29 Nov 2024</td><td style="mso-number-format:0;">597209</td><td style="mso-number-format:0\.00;">2694551.45</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>02 Dec 2024</td><td style="mso-number-format:0;">644889</td><td style="mso-number-format:0\.00;">2573980.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>02 Dec 2024</td><td style="mso-number-format:0;">2966686</td><td style="mso-number-format:0\.00;">16722381.80</td><td>360900.21</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>02 Dec 2024</td><td style="mso-number-format:0;">29</td><td style="mso-number-format:0\.00;">271.19</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>03 Dec 2024</td><td style="mso-number-format:0;">3209047</td><td style="mso-number-format:0\.00;">17929556.94</td><td>356176.55</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>03 Dec 2024</td><td style="mso-number-format:0;">581358</td><td style="mso-number-format:0\.00;">2407812.89</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>03 Dec 2024</td><td style="mso-number-format:0;">29</td><td style="mso-number-format:0\.00;">273.13</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>04 Dec 2024</td><td style="mso-number-format:0;">3572105</td><td style="mso-number-format:0\.00;">20151005.70</td><td>369887.36</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>04 Dec 2024</td><td style="mso-number-format:0;">37</td><td style="mso-number-format:0\.00;">349.15</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>04 Dec 2024</td><td style="mso-number-format:0;">626562</td><td style="mso-number-format:0\.00;">2687029.96</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>05 Dec 2024</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">198.28</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>05 Dec 2024</td><td style="mso-number-format:0;">4016173</td><td style="mso-number-format:0\.00;">21983723.91</td><td>387758.47</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>05 Dec 2024</td><td style="mso-number-format:0;">573208</td><td style="mso-number-format:0\.00;">2342946.99</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>06 Dec 2024</td><td style="mso-number-format:0;">9</td><td style="mso-number-format:0\.00;">84.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>06 Dec 2024</td><td style="mso-number-format:0;">542695</td><td style="mso-number-format:0\.00;">2311012.04</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>06 Dec 2024</td><td style="mso-number-format:0;">3265934</td><td style="mso-number-format:0\.00;">18191494.30</td><td>286905.08</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>09 Dec 2024</td><td style="mso-number-format:0;">36</td><td style="mso-number-format:0\.00;">342.63</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>09 Dec 2024</td><td style="mso-number-format:0;">792791</td><td style="mso-number-format:0\.00;">3405973.06</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>09 Dec 2024</td><td style="mso-number-format:0;">3689748</td><td style="mso-number-format:0\.00;">20928975.78</td><td>323713.31</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>10 Dec 2024</td><td style="mso-number-format:0;">600330</td><td style="mso-number-format:0\.00;">2576128.49</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>10 Dec 2024</td><td style="mso-number-format:0;">30</td><td style="mso-number-format:0\.00;">287.45</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>10 Dec 2024</td><td style="mso-number-format:0;">4518296</td><td style="mso-number-format:0\.00;">25689252.71</td><td>348201.34</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>11 Dec 2024</td><td style="mso-number-format:0;">27</td><td style="mso-number-format:0\.00;">261.14</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>11 Dec 2024</td><td style="mso-number-format:0;">5067084</td><td style="mso-number-format:0\.00;">28574765.28</td><td>389771.27</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>11 Dec 2024</td><td style="mso-number-format:0;">722966</td><td style="mso-number-format:0\.00;">3562112.60</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>12 Dec 2024</td><td style="mso-number-format:0;">41</td><td style="mso-number-format:0\.00;">391.87</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>12 Dec 2024</td><td style="mso-number-format:0;">6783726</td><td style="mso-number-format:0\.00;">39027871.12</td><td>486460.25</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>12 Dec 2024</td><td style="mso-number-format:0;">965084</td><td style="mso-number-format:0\.00;">4029003.52</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>13 Dec 2024</td><td style="mso-number-format:0;">6299628</td><td style="mso-number-format:0\.00;">35784506.38</td><td>385132.55</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>13 Dec 2024</td><td style="mso-number-format:0;">704974</td><td style="mso-number-format:0\.00;">2985760.93</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>13 Dec 2024</td><td style="mso-number-format:0;">42</td><td style="mso-number-format:0\.00;">397.13</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>16 Dec 2024</td><td style="mso-number-format:0;">491968</td><td style="mso-number-format:0\.00;">1933823.22</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>16 Dec 2024</td><td style="mso-number-format:0;">14</td><td style="mso-number-format:0\.00;">131.81</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>16 Dec 2024</td><td style="mso-number-format:0;">5710122</td><td style="mso-number-format:0\.00;">31583356.90</td><td>278920.90</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>17 Dec 2024</td><td style="mso-number-format:0;">2354510</td><td style="mso-number-format:0\.00;">13704560.91</td><td>266077.14</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>17 Dec 2024</td><td style="mso-number-format:0;">24</td><td style="mso-number-format:0\.00;">224.71</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>17 Dec 2024</td><td style="mso-number-format:0;">541132</td><td style="mso-number-format:0\.00;">2189484.21</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>18 Dec 2024</td><td style="mso-number-format:0;">2638663</td><td style="mso-number-format:0\.00;">13819437.12</td><td>295336.28</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>18 Dec 2024</td><td style="mso-number-format:0;">529972</td><td style="mso-number-format:0\.00;">1888526.33</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>18 Dec 2024</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0\.00;">28.17</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>19 Dec 2024</td><td style="mso-number-format:0;">733759</td><td style="mso-number-format:0\.00;">2992762.44</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>19 Dec 2024</td><td style="mso-number-format:0;">3150082</td><td style="mso-number-format:0\.00;">19979828.45</td><td>359035.29</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>19 Dec 2024</td><td style="mso-number-format:0;">50</td><td style="mso-number-format:0\.00;">460.56</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>20 Dec 2024</td><td style="mso-number-format:0;">3417130</td><td style="mso-number-format:0\.00;">20013061.98</td><td>341841.76</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>20 Dec 2024</td><td style="mso-number-format:0;">646138</td><td style="mso-number-format:0\.00;">2464645.72</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>20 Dec 2024</td><td style="mso-number-format:0;">51</td><td style="mso-number-format:0\.00;">469.91</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>23 Dec 2024</td><td style="mso-number-format:0;">3972881</td><td style="mso-number-format:0\.00;">22638229.22</td><td>318867.13</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>23 Dec 2024</td><td style="mso-number-format:0;">713512</td><td style="mso-number-format:0\.00;">2429703.73</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>23 Dec 2024</td><td style="mso-number-format:0;">64</td><td style="mso-number-format:0\.00;">596.25</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>24 Dec 2024</td><td style="mso-number-format:0;">500753</td><td style="mso-number-format:0\.00;">1812240.32</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>24 Dec 2024</td><td style="mso-number-format:0;">1924202</td><td style="mso-number-format:0\.00;">13805676.15</td><td>241983.28</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>24 Dec 2024</td><td style="mso-number-format:0;">78</td><td style="mso-number-format:0\.00;">724.84</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>26 Dec 2024</td><td style="mso-number-format:0;">527122</td><td style="mso-number-format:0\.00;">1973149.09</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>26 Dec 2024</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">196.24</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>26 Dec 2024</td><td style="mso-number-format:0;">1678203</td><td style="mso-number-format:0\.00;">13356924.35</td><td>235238.20</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>27 Dec 2024</td><td style="mso-number-format:0;">1852090</td><td style="mso-number-format:0\.00;">16203242.93</td><td>247953.77</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>27 Dec 2024</td><td style="mso-number-format:0;">607400</td><td style="mso-number-format:0\.00;">2341605.18</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>27 Dec 2024</td><td style="mso-number-format:0;">31</td><td style="mso-number-format:0\.00;">289.65</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>30 Dec 2024</td><td style="mso-number-format:0;">872678</td><td style="mso-number-format:0\.00;">3299720.82</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>30 Dec 2024</td><td style="mso-number-format:0;">2522318</td><td style="mso-number-format:0\.00;">22244523.78</td><td>389269.92</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>30 Dec 2024</td><td style="mso-number-format:0;">21</td><td style="mso-number-format:0\.00;">194.94</td><td>-</td>
+	</tr><tr>
+		<td>FUTCOM</td><td>31 Dec 2024</td><td style="mso-number-format:0;">584004</td><td style="mso-number-format:0\.00;">2177893.19</td><td>-</td>
+	</tr><tr>
+		<td>FUTIDX</td><td>31 Dec 2024</td><td style="mso-number-format:0;">16</td><td style="mso-number-format:0\.00;">148.51</td><td>-</td>
+	</tr><tr>
+		<td>OPTFUT</td><td>31 Dec 2024</td><td style="mso-number-format:0;">2248179</td><td style="mso-number-format:0\.00;">19504584.79</td><td>309450.94</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
